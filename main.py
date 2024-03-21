@@ -18,6 +18,7 @@ from langchain.chat_models import ChatOpenAI
 from transformers import VitsModel, AutoTokenizer, pipeline
 import torch
 import soundfile as sf
+from qna import text 
 apikeys = apikey
 
 app = Flask(__name__)
@@ -35,11 +36,11 @@ from faster_whisper import WhisperModel
 print('Loading Whisper...')
 model_size = "large-v3"
 model = WhisperModel(model_size, device="cuda", compute_type="int8")
-
+print('Loading TTS...')
 tts_model = VitsModel.from_pretrained("facebook/mms-tts-urd-script_arabic")
 tts_tokenizer = AutoTokenizer.from_pretrained("facebook/mms-tts-urd-script_arabic")
 
-print('Whisper Loaded Successfully...')
+print('Models Loaded Successfully...')
 
 
 def transcribe(audio_file_path, beam_size=5):   
@@ -52,15 +53,16 @@ def transcribe(audio_file_path, beam_size=5):
 
     return transcribed_text.strip()
 
-def tts(text):
+def tts(text,filename):
 
     inputs = tts_tokenizer(text, return_tensors="pt")
 
     with torch.no_grad():
         tts_output = tts_model(**inputs).waveform
+    audio_data = tts_output.squeeze().cpu().numpy()
+    sf.write(filename, audio_data, 16000)
 
-
-    return tts_output
+    return  filename
 
 
 
@@ -211,16 +213,11 @@ def upload_file():
             text = transcribe('uploads/'+name,beam_size=5)
             print(text)
             gpt_reply = check_user('test',text+"give very short answser")
-            waveform = tts(gpt_reply)  # Your tts function is called here with the input text
-            sample_rate = 22050  # Adjust this sample rate as per your TTS model's requirements
+            print('gpt_reply : ',gpt_reply)
+            waveform = tts(gpt_reply['message']['content'],'audios/output.wav')  # Your tts function is called here with the input text
+            # audio = open(waveform, 'rb')
+            return send_file(waveform, as_attachment=True, download_name='downloaded_audio.wav')
 
-            with tempfile.NamedTemporaryFile(delete=False, suffix='.wav') as tmp:
-                tensor_to_wav(waveform, sample_rate, tmp.name)
-                @after_this_request
-                def remove_file(response):
-                    os.remove(tmp.name)
-                    return response
-                return send_file(tmp.name, as_attachment=True, attachment_filename='tts_audio.wav')
 
             # return gpt_reply
 
