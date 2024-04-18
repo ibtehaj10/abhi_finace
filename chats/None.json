@@ -1,0 +1,13 @@
+{
+    "user_id": "None",
+    "chat": [
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0622\u067e \u0645\u06cc\u0631\u06cc \u0645\u062f\u062f \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u062c\u06cc \u06c1\u0627\u06ba\u060c \u0628\u062a\u0627\u0626\u06cc\u06d2 \u06a9\u06cc\u0633\u06d2 \u0645\u062f\u062f \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06ba\u061f"
+        }
+    ]
+}

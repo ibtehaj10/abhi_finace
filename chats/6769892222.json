@@ -1,0 +1,413 @@
+{
+    "user_id": "6769892222",
+    "chat": [
+        {
+            "role": "user",
+            "content": "/start"
+        },
+        {
+            "role": "assistant",
+            "content": "If you're looking to begin using Abhi's services or have any specific questions or requests, could you please provide more details or clarify how I can assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0646 \u0648\u06cc\u062c \u0627\u06cc\u06a9\u0633\u0633 \u06a9\u06cc\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u06cc\u0646\u0688 \u0648\u06cc\u062c \u0627\u06cc\u06a9\u0633\u0633 (EWA) \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0627\u0646 \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u0645\u06af\u0631 \u0627\u0628\u06be\u06cc \u062a\u06a9 \u0646\u06c1 \u0645\u0644\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u0631\u0633\u0627\u0626\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0632\u06cc\u062f \u062a\u0641\u0635\u06cc\u0644 \u0628\u06cc\u0627\u0646 \u06a9\u0631\u0648give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u06cc\u0646\u0688 \u0648\u06cc\u062c \u0627\u06cc\u06a9\u0633\u0633 (EWA) \u0633\u06d2 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u06a9\u0686\u06be \u062d\u0635\u06c1 \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u06cc \u0627\u062f\u0627\u0626\u06cc\u06af\u06cc \u06a9\u06d2 \u062f\u0646 \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 EWA \u067e\u06cc\u0679 \u0641\u0631\u0645 \u06a9\u06cc\u0633\u06d2 \u06a9\u0627\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 EWA \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0627\u0646 \u06a9\u06cc \u06a9\u0645\u067e\u0646\u06cc \u067e\u0627\u0644\u06cc\u0633\u06cc \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642, \u0627\u0646 \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u06a9\u0686\u06be \u062d\u0635\u06c1 \u0648\u0642\u062a \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u0646\u06a9\u0627\u0644\u0646\u06d2 \u06a9\u06cc \u0627\u06c1\u0644\u06cc\u062a \u062f\u06cc\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0628\u0644\u06cc\u06a9 \u0622\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u06a9\u06cc\u0627 \u06c1\u06d2 \u062a\u0641\u0635\u06cc\u0644 \u0633\u06d2 \u0648\u06cc\u0627\u0646 \u06a9\u0631\u0648give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0644\u06cc\u06a9 \u0622\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u0648\u06c1 \u0648\u0642\u062a \u06c1\u0648\u062a\u0627 \u06c1\u06d2 \u062c\u0628 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0648 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0627\u06cc\u067e \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06c1 \u0646\u06c1\u06cc\u06ba \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2\u060c \u0627\u0648\u0631 \u06cc\u06c1 \u0639\u0645\u0648\u0645\u0627\u064b \u06a9\u0645\u067e\u0646\u06cc \u06a9\u06cc \u067e\u06d2 \u0631\u0648\u0644 \u067e\u0631\u0648\u0633\u06cc\u0633\u0646\u06af \u06a9\u06d2 \u062f\u0648\u0631\u0627\u0646 \u06c1\u0648\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0645\u067e\u0644\u0648\u0627\u0626\u0632 \u0627\u0628\u06be\u06cc \u0627\u06cc \u0688\u06cc \u0648\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631 \u06a9\u06d2 \u06a9\u062a\u0646\u0627 \u067e\u06cc\u0633\u06c1 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0627\u0628\u06be\u06cc \u06a9\u06d2 EWA \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u0627\u067e\u0646\u06cc \u06a9\u0645\u067e\u0646\u06cc \u06a9\u06cc \u067e\u0627\u0644\u06cc\u0633\u06cc \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b 50 \u0641\u06cc\u0635\u062f \u062a\u06a9 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0627\u0645\u067e\u0644\u0627\u0626\u0632 \u0628\u0644\u06cc\u06a9 \u06c1\u0627\u0631\u0688 \u067e\u06cc\u0631\u06cc\u0648\u0679 \u06a9\u06d2 \u0639\u0644\u0627\u0648\u06c1 \u067e\u06cc\u0633\u06d2 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u062c\u06cc \u06c1\u0627\u06ba\u060c \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0628\u0644\u06cc\u06a9 \u0622\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u06a9\u06d2 \u0639\u0644\u0627\u0648\u06c1 \u0627\u067e\u0646\u06cc \u06a9\u0645\u067e\u0646\u06cc \u06a9\u06cc \u067e\u0627\u0644\u06cc\u0633\u06cc \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06c1 \u067e\u06cc\u0633\u06d2 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0648\u0631 \u0627\u06af\u0631 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u062a\u0648 \u06a9\u0633 \u0637\u0631\u062d \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u0627\u0648\u0631 \u06a9\u0628 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0628\u0644\u06cc\u06a9 \u0622\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u06a9\u06d2 \u0628\u0627\u06c1\u0631 \u06a9\u0628\u06be\u06cc \u0628\u06be\u06cc \u067e\u06cc\u0633\u06d2 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u062c\u0628 \u062a\u06a9 \u06a9\u06c1 \u0648\u06c1 \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u0627\u06c1\u0644 \u06c1\u0648\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06af\u0631 \u0627\u06cc\u067e \u0645\u06cc\u06ba \u06cc\u0627 \u067e\u06be\u0631 \u067e\u06cc\u0633\u06d2 \u0646\u06a9\u0627\u0644\u0646\u06d2 \u06a9\u06d2 \u062f\u0648\u0631\u0627\u0646 \u06a9\u06cc \u0645\u0633\u0626\u0644\u06c1 \u06c1\u0648 \u062c\u0627\u0626\u06d2 \u062a\u0648 \u06a9\u06cc\u0627 \u06c1\u0648\u06af\u0627\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u06af\u0631 \u0627\u06cc\u067e \u0645\u06cc\u06ba \u06cc\u0627 \u067e\u06cc\u0633\u06d2 \u0646\u06a9\u0627\u0644\u062a\u06d2 \u0648\u0642\u062a \u06a9\u0648\u0626\u06cc \u0645\u0633\u0626\u0644\u06c1 \u06c1\u0648 \u062a\u0648 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06c1\u0645\u0627\u0631\u06cc \u06a9\u0633\u0679\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u0633\u06d2 \u0645\u062f\u062f \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u0633\u0679\u06cc\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u06a9\u0627 \u0631\u06cc\u0633\u067e\u0648\u0646\u0633 \u06a9\u062a\u0646\u06d2 \u062f\u06cc\u0631 \u0628\u0639\u062f \u0622\u0626\u06d2 \u06af\u0627\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0639\u0645\u0648\u0645\u0627\u064b \u06a9\u0633\u0679\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u06a9\u0627 \u0631\u06cc\u0633\u067e\u0627\u0646\u0633 \u0641\u0648\u0631\u06cc \u06cc\u0627 \u0686\u0646\u062f \u0645\u0646\u0679\u0648\u06ba \u0645\u06cc\u06ba \u0645\u0644 \u062c\u0627\u0626\u06d2 \u06af\u0627 \u0644\u06cc\u06a9\u0646 \u0627\u06af\u0631 \u062a\u0641\u0635\u06cc\u0644\u06cc \u0645\u0633\u0626\u0644\u06c1 \u06c1\u0648 \u062a\u0648 \u0632\u06cc\u0627\u062f\u06c1 \u0648\u0642\u062a \u0644\u06af \u0633\u06a9\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0627\u0628\u06be\u06cc \u06a9\u0627 EWK \u067e\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u0626\u06d2 \u06a9\u0648\u0626\u06cc \u0641\u06cc\u0632 \u06c1\u06d2 \u0627\u0648\u0631 \u0627\u06af\u0631 \u06c1\u06d2 \u062a\u0648 \u06a9\u062a\u0646\u06cc \u06c1\u06cc\u06ba\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06d2 EWA \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u0641\u06cc\u0633 Rs. 100 \u0641\u06cc \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0648\u06c1 \u0631\u06cc\u062c\u0633\u0679\u0631\u0688 \u0641\u06cc\u0632 \u06a9\u062a\u0646\u06cc \u06c1\u06d2  \u0627\u0648\u0631 \u06a9\u06cc\u0627 \u06c1\u0645 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0633\u06d2 \u0644\u0648\u0646 \u0644\u06d2 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u0627 \u0631\u062c\u0633\u0679\u0631\u06cc\u0634\u0646 \u06cc\u0627 \u0633\u0627\u0626\u0646 \u0627\u067e \u0641\u06cc\u0633 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u060c \u0627\u0648\u0631 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0633\u06d2 \"\u0644\u0648\u0646\" \u0646\u06c1\u06cc\u06ba \u0644\u06cc\u0627 \u062c\u0627 \u0633\u06a9\u062a\u0627\u060c \u0635\u0631\u0641 \u0622\u067e \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u0642\u0628\u0644 \u0627\u0632 \u0648\u0642\u062a \u0631\u0633\u0627\u0626\u06cc \u062d\u0627\u0635\u0644 \u06a9\u06cc \u062c\u0627 \u0633\u06a9\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u062a\u0648 \u0627\u06cc \u0688\u06cc\u0648 \u0627\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u06cc \u0641\u06cc\u0633 \u06a9\u06cc\u0627 \u06c1\u06d2 \u067e\u06be\u0631give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06d2 EWA \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u06cc \u0641\u06cc\u0633 Rs. 100 \u0641\u06cc \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0633 \u0679\u0627\u0626\u0679 \u0641\u0631\u06cc \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u06a9\u06cc\u0627 \u06c1\u0648\u062a\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "'\u0679\u0627\u0626\u0679 \u0641\u0631\u06cc \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646' \u06a9\u0627 \u06a9\u0648\u0626\u06cc \u062a\u0635\u0648\u0631 \u06cc\u0627 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u062f\u0633\u062a\u0627\u0648\u06cc\u0632 \u0645\u06cc\u06ba \u0645\u0648\u062c\u0648\u062f \u0646\u06c1\u06cc\u06ba \u06c1\u06cc\u06ba\u06d4 \u0627\u06af\u0631 \u0622\u067e \u0627\u0628\u06be\u06cc \u06a9\u06cc \u06a9\u0633\u06cc \u0633\u0631\u0648\u0633 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0686\u0627\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba \u062a\u0648 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0648\u0636\u0627\u062d\u062a \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06cc\u0688\u06cc\u0648 \u0627\u06d2 \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u06cc \u0641\u06cc\u0632 \u06a9\u0633 \u0637\u0631\u062d \u06a9\u0679\u06d2 \u06af\u06cc \u0627\u0648\u0631 \u06a9\u0633 \u0637\u0631\u062d \u0633\u06d2 \u06a9\u0679 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0645\u06cc\u06ba  \u0633\u0628 \u0628\u062a\u0627\u0626\u06cc\u06ba \u0645\u062c\u06be \u06a9\u0648 \u062a\u0641\u0635\u06cc\u0644 \u0633\u06d2 \u0627\u0648\u0631 \u062f\u0648\u0633\u0631\u06cc \u0628\u0627\u062a \u06cc\u06c1 \u06a9\u06c1 \u0627\u06af\u0631 \u06a9\u0648\u0626\u06cc \u0641\u06cc\u0632 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2 \u062a\u0648 \u067e\u06be\u0631 \u06c1\u0645 \u0644\u0648\u06af \u0627\u0633 \u06a9\u0648 \u06a9\u0633 \u0637\u0631\u062d \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06d2 EWA \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u06cc \u0641\u06cc\u0633 Rs. 100 \u0641\u06cc \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u06c1\u06d2 \u0627\u0648\u0631 \u06cc\u06c1 \u0622\u067e \u06a9\u06cc \u06a9\u0645\u067e\u0646\u06cc \u0622\u067e \u06a9\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u0633\u06d2 \u06a9\u0627\u0679 \u06a9\u0631 \u0627\u0628\u06be\u06cc \u06a9\u0648 \u0627\u062f\u0627 \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4 \u0627\u06af\u0631 \u0641\u06cc\u0632 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2 \u062a\u0648 \u0622\u067e \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0648 \u0628\u063a\u06cc\u0631 \u06a9\u0633\u06cc \u0627\u0636\u0627\u0641\u06cc \u0686\u0627\u0631\u062c\u0632 \u06a9\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 EWA \u06a9\u06cc \u062e\u062f\u0645\u062a \u062a\u0645\u0627\u0645 \u0627\u0645\u067e\u0644\u0627\u0626\u06cc\u0633 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0633\u062a\u06cc\u0627\u0628 \u06c1\u06d2 \u06a9\u06cc\u0627 \u067e\u06be\u0631 \u0646\u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "EWA \u06a9\u06cc \u0633\u0631\u0648\u0633 \u0635\u0631\u0641 \u0627\u0646 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062f\u0633\u062a\u06cc\u0627\u0628 \u06c1\u06d2 \u062c\u0646 \u06a9\u06cc \u06a9\u0645\u067e\u0646\u06cc\u0627\u06ba \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0634\u0631\u0627\u06a9\u062a \u062f\u0627\u0631\u06cc \u06a9\u0631\u062a\u06cc \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06af\u0631 \u0645\u062c\u06be\u06d2 \u0646\u06c1\u06cc\u06ba \u067e\u062a\u0627 \u06a9\u06c1 \u0645\u06cc\u0631\u06cc \u06a9\u0645\u067e\u0646\u06cc \u062c\u0648 \u06c1\u06d2 \u0648\u06c1 \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06a9\u06cc \u062e\u062f\u0645\u062a \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u067e\u0631\u0648\u0627\u0626\u06cc\u0688 \u06a9\u0631\u06d2 \u06af\u06cc \u062a\u0648 \u0645\u06cc\u06ba \u06a9\u0633 \u0637\u0631\u062d \u06a9\u06cc\u0633\u06d2 \u067e\u062a\u0627 \u0644\u06af\u0627\u0624\u06ba \u06af\u0627give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u067e \u0627\u067e\u0646\u06cc HR \u062f\u0641\u062a\u0631 \u0633\u06d2 \u06cc\u06c1 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062d\u0627\u0635\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u06a9\u06c1 \u06a9\u06cc\u0627 \u0622\u067e \u06a9\u06cc \u06a9\u0645\u067e\u0646\u06cc \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0634\u0631\u0627\u06a9\u062a \u062f\u0627\u0631 \u06c1\u06d2 \u06cc\u0627 \u0646\u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0627\u0628\u06be\u06cc \u06a9\u0627 \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2 \u0627\u0648\u0631 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2 \u062a\u0648 \u06a9\u0633 \u0637\u0631\u062d\u06cc \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06cc \u0641\u0631\u06c1\u0627\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \u06c1\u0645 \u06a9\u06cc\u0633\u06d2 \u0645\u0627\u0646\u0646\u06d2 \u06a9\u06d2 \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06ccgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u06c1\u0627\u06ba\u060c \u0627\u0628\u06be\u06cc \u06a9\u0627 \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2 \u0627\u0648\u0631 \u0627\u0646\u0688\u0633\u0679\u0631\u06cc \u06a9\u06d2 \u0645\u0639\u06cc\u0627\u0631 \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06cc \u06a9\u06d2 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u06a9\u0648 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u060c \u062c\u06cc\u0633\u06d2 \u06a9\u06c1 \u0688\u06cc\u0679\u0627 \u0627\u0646\u06a9\u0631\u067e\u0634\u0646 \u0627\u0648\u0631 \u0633\u062e\u062a \u0631\u0627\u0632\u062f\u0627\u0631\u06cc \u06a9\u06cc \u067e\u0631\u0648\u0679\u0648\u06a9\u0648\u0644\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0628\u0631\u06cc\u0627\u0646\u06cc \u0628\u06cc\u0686\u062a\u0627 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0646\u06c1\u06cc\u06ba\u060c \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0628\u0631\u06cc\u0627\u0646\u06cc \u0646\u06c1\u06cc\u06ba \u0628\u06cc\u0686\u062a\u0627\u06d4 \u06cc\u06c1 \u0627\u06cc\u06a9 \u0641\u0646\u0627\u0646\u0634\u06cc\u0644 \u0633\u0631\u0648\u0633\u0632 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06cc \u06a9\u0645\u067e\u0646\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0648\u0631 \u0627\u06af\u0631 \u0628\u06cc\u0634\u062a\u0627 \u06c1\u06d2 \u062a\u0648 \u0627\u0633 \u06a9\u06cc \u0627\u06cc\u06a9 \u067e\u0644\u06cc\u0679 \u0686\u06a9\u0646 \u06a9\u06cc \u06a9\u062a\u0646\u06cc \u0631\u06cc\u0679 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0628\u0631\u06cc\u0627\u0646\u06cc \u06cc\u0627 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u0642\u0633\u0645 \u06a9\u06cc \u0641\u0648\u0688 \u0622\u0626\u0679\u0645\u0632 \u0646\u06c1\u06cc\u06ba \u0628\u06cc\u0686\u062a\u0627 \u06c1\u06d2\u060c \u0627\u0633 \u0644\u06cc\u06d2 \u06a9\u0648\u0626\u06cc \u0631\u06cc\u0679 \u0644\u0627\u06af\u0648 \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u062a\u0627\u06d4 \u0627\u0628\u06be\u06cc \u0641\u0646\u0627\u0646\u0634\u06cc\u0644 \u0633\u0631\u0648\u0633\u0632 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u062a\u0648 \u067e\u06be\u0631 \u0645\u062c\u06be \u06a9\u0648 \u0641\u0627\u0646\u0627\u0646\u0633\u0632 \u0633\u0631\u0648\u06cc\u0633\u0632 \u0645\u06cc\u06ba \u06a9\u0633 \u0637\u0631\u06cc\u0642\u06d2 \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u062a\u0648 \u0622\u0626\u06cc\u0688 \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u06d2 \u0627\u0628\u06be\u06cc \u06c1\u06d2  \u0627\u0648\u0631 \u0648\u06c1 \u0627\u0646 \u0633\u0628 \u06a9\u0627 \u0641\u0627\u0626\u062f\u06c1 \u0645\u06cc\u06ba \u06a9\u0633 \u0637\u0631\u06cc\u0642\u06d2 \u0633\u06d2 \u0627\u0679\u06be\u0627 \u0633\u06a9\u062a\u0627 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0622\u067e \u06a9\u0648 \u0627\u06cc\u0646\u0688 \u0648\u06cc\u062c \u0627\u06cc\u06a9\u0633\u0633\u060c \u0627\u0646\u0648\u0627\u0626\u0633 \u0641\u06cc\u06a9\u0679\u0631\u0646\u06af\u060c \u0627\u0648\u0631 \u067e\u06d2\u0631\u0648\u0644 \u0633\u0644\u0648\u0634\u0646\u0632 \u06a9\u06cc \u0633\u0631\u0648\u0633\u0632 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2 \u062c\u0633 \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0622\u067e \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u0642\u0628\u0644 \u0627\u0632 \u0648\u0642\u062a \u0631\u0633\u0627\u0626\u06cc \u062d\u0627\u0635\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u0627\u067e\u0646\u06d2 \u0627\u0646\u0648\u0627\u0626\u0633\u0632 \u06a9\u0648 \u0641\u0646\u0627\u0646\u0633 \u06a9\u0631\u0627 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u0627\u0648\u0631 \u062a\u0646\u062e\u0648\u0627\u06c1\u0648\u06ba \u06a9\u06cc \u0641\u0631\u0627\u06c1\u0645\u06cc \u0645\u06cc\u06ba \u0622\u0633\u0627\u0646\u06cc \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06cc\u0645\u067e\u0644\u0648\u0626\u06cc \u0627\u067e\u0646\u06cc \u062d\u0627\u0635\u0644 \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06a9\u0648 \u06a9\u062a\u0646\u06cc \u0628\u0627\u0631 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \u06a9\u0628 \u06a9\u0628 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u0627 \u06c1\u06d2  \u0627\u0648\u0631 \u0627\u06af\u0631 \u0648\u06c1 \u0627\u06cc\u06a9 \u0628\u0627\u0631 \u0646\u06a9\u0627\u0644 \u0644\u06d2 \u062a\u0648 \u062f\u0648\u0633\u0631\u06cc \u0628\u0627\u0631 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u0627 \u06c1\u06d2 \u06a9\u06cc\u0644\u0626\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0648 \u067e\u06d2 \u067e\u06cc\u0631\u06cc\u0688 \u06a9\u06d2 \u062f\u0648\u0631\u0627\u0646 \u0645\u062a\u0639\u062f\u062f \u0628\u0627\u0631 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u06a9\u0645\u067e\u0646\u06cc \u06a9\u06cc \u067e\u0627\u0644\u06cc\u0633\u06cc \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u06a9\u06d2 \u0628\u063a\u06cc\u0631\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be \u06a9\u0648 \u0627\u0645\u0627\u0646 \u0631\u0633\u06cc\u0628 \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0627give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u06c1\u0645\u06cc\u06ba \u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk\u060c \u0641\u0648\u0646 \u06a9\u0631\u06cc\u06ba +923041115276\u060c \u06cc\u0627 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u0633\u0679\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u0633\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06cc\u06ba \u062a\u0627\u06a9\u06c1 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u0645\u062f\u062f \u06a9\u0631 \u0633\u06a9\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u06cc\u0631\u06d2 \u0627\u06a9\u0627\u0624\u0646\u0679 \u0633\u06d2 \u067e\u06cc\u0633\u06d2 \u06a9\u0679 \u06af\u0626\u06d2 \u06c1\u06cc\u06ba \u0644\u06cc\u06a9\u0646 \u0645\u062c\u06be\u06d2 \u0627\u0645\u0627\u0624\u0646\u0688 \u0631\u06cc\u0633\u06cc\u067e \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0627give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0627\u067e\u0646\u06d2 \u0645\u0633\u0626\u0644\u06d2 \u06a9\u06cc \u062a\u0641\u0635\u06cc\u0644\u0627\u062a \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06c1\u0645\u06cc\u06ba \u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk\u060c \u0641\u0648\u0646 \u06a9\u0631\u06cc\u06ba +923041115276\u060c \u06cc\u0627 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u0633\u0679\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u0633\u06d2 \u0631\u0627\u0628\u0637 \u06a9\u0631\u06cc\u06ba \u062a\u0627\u06a9\u06c1 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u0645\u062f\u062f \u06a9\u0631 \u0633\u06a9\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0648\u0679\u06cc \u067e\u06cc \u0646\u06c1\u06cc\u06ba \u0645\u0644 \u0631\u06c1\u0627give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0627\u067e\u0646\u0627 \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u06c1\u0645\u06cc\u06ba \u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk\u060c \u0641\u0648\u0646 \u06a9\u0631\u06cc\u06ba +923041115276\u060c \u062a\u0627\u06a9\u06c1 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u0645\u062f\u062f \u06a9\u0631 \u0633\u06a9\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Mjko OTP nhi mil raha"
+        },
+        {
+            "role": "assistant",
+            "content": "Apna contact number verify karein aur agar number correct hai, toh network issues ke liye 'MNP' ko 82244 per send karein. Agr phir bhi OTP nahi milta, toh hamain email ya phone per raabta karein takay hum aapki madad kar sakin."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0645\u06cc\u0631\u0627 \u0627\u0648\u06cc\u0644\u06cc\u0628\u0644 \u0628\u06cc\u0631\u0646\u0633 \u062c\u0627\u0646\u0646\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \u0648\u06c1 \u0634\u0648 \u0646\u06c1\u06cc\u06ba \u06a9\u0631\u0648\u0627\u0646\u0627give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0627\u067e\u0646\u06cc HR \u0633\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06cc\u06ba \u06a9\u06c1 \u0648\u06c1 \u0622\u067e \u06a9\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u0627\u0628\u06be\u06cc \u0633\u0633\u0679\u0645 \u0645\u06cc\u06ba \u0627\u067e \u0688\u06cc\u0679 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u062f\u06cc\u06a9\u06be\u06cc\u06ba \u06cc\u06c1 \u06a9\u06cc\u0627 \u0627\u0648\u06af\u0631\u0646\u06cc\u0632\u06cc\u0634\u0646 \u0628\u0644\u06cc\u06a9 \u0622\u0679 \u067e\u06cc\u0631\u06cc\u0679 \u0645\u06cc\u06ba \u06c1\u06d2 \u06cc\u0627 \u0646\u06c1\u06cc\u06ba  \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u06a9\u0627 \u0645\u06cc\u0688\u06cc\u0645 \u06a9\u06cc\u0627 \u06c1\u06d2  \u0627\u06cc\u067e \u0627\u0648\u0631 \u0627\u06cc\u0633 \u0627\u06cc\u0645 \u0627\u06cc\u0633 \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u06a9\u0627 \u0645\u0633\u0626\u0644\u06c1 \u0622 \u0631\u06c1\u0627 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u0688\u0645\u0646 \u067e\u0648\u0631\u0679\u0644 \u0645\u06cc\u06ba \u062c\u0627 \u06a9\u0631 \u0686\u06cc\u06a9 \u06a9\u0631\u06cc\u06ba \u06a9\u06c1 \u0622\u067e \u06a9\u06cc \u06a9\u0645\u067e\u0646\u06cc \u0628\u0644\u06cc\u06a9 \u0622\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u0645\u06cc\u06ba \u06c1\u06d2 \u06cc\u0627 \u0646\u06c1\u06cc\u06ba \u0627\u0648\u0631 \u0645\u06cc\u0688\u06cc\u0645 \u06a9\u06cc \u0633\u0679\u06cc\u0679\u0633 \u0686\u06cc\u06a9 \u06a9\u0631\u06cc\u06ba\u06d4 \u0627\u06af\u0631 \u0645\u0633\u0626\u0644\u06c1 \u062c\u0627\u0631\u06cc \u06c1\u06d2\u060c \u062a\u0648 \u062a\u06a9\u0646\u06cc\u06a9\u06cc \u0679\u06cc\u0645 \u06a9\u0648 \u0631\u067e\u0648\u0631\u0679 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0644\u0648\u06af\u0646 \u06a9\u06d2 \u0645\u0633\u0627\u0626\u0644 \u0622 \u0631\u06c1\u06d2 \u06c1\u06cc\u06ba \u0648\u06c1 \u0628\u0627\u0631 \u0628\u0627\u0631 \u0645\u062c\u06be \u06a9\u0648 \u0627\u06cc\u0631\u0631 \u062f\u06d2 \u0631\u06c1\u0627 \u06c1\u06d2 \u06a9\u06c1 \u0644\u0648\u06af\u0646 \u0646\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0641\u0627\u0626\u06cc\u0688  \u0627\u06af\u0631 \u0622\u067e \u0645\u062c\u06be \u06a9\u0648 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0648\u0679 \u0628\u06be\u06cc\u062c \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u062a\u0648 \u0645\u062c\u06be\u06d2 \u0628\u06be\u06cc\u062c \u06a9\u06d2 \u0628\u062a\u0627\u0626\u06cc\u06ba \u06cc\u06c1 \u06a9\u06cc\u0627 \u0645\u0633\u0626\u0644\u06c1 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u067e\u0646\u06cc \u0644\u0648\u06af\u0646 \u06a9\u06cc \u0627\u06cc\u0631\u0631 \u06a9\u0627 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0648\u0679 \u06c1\u0645\u06cc\u06ba \u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk\u060c \u06cc\u0627 \u0641\u0648\u0646 \u06a9\u0631\u06cc\u06ba +923041115276 \u062a\u0627\u06a9\u06c1 \u06c1\u0645 \u0622\u067e \u06a9\u06d2 \u0645\u0633\u0626\u0644\u06d2 \u06a9\u06cc \u0645\u062f\u062f \u06a9\u0631 \u0633\u06a9\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06af\u0631 \u06a9\u0648\u0626\u06cc \u0688\u06cc\u0679\u0627 \u062c\u0648 \u06a9\u06c1 confidential \u06c1\u06d2 \u0646\u0627\u0626\u0633\u06cc \u0633\u06cc\u0644\u0648\u06cc \u0627\u06a9\u0627\u0624\u0646\u0679 \u0688\u06cc\u0679\u06cc\u0644\u0632 \u06cc\u0627 \u067e\u06be\u0631 \u06a9\u0648\u0626\u06cc \u0627\u06cc\u0633\u06cc \u0686\u06cc\u0632 \u062c\u0648 \u063a\u0644\u0637\u06cc \u0633\u06d2 \u0644\u06cc\u06a9 \u06c1\u0648 \u062c\u0627\u0626\u06d2 \u062a\u0648 \u0627\u0633 \u06a9\u06cc \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06cc \u0627\u0628\u06be\u06cc \u06a9\u0633 \u0637\u0631\u062d \u067e\u0631\u0648\u0627\u0626\u06cc\u0688 \u06a9\u0631\u062a\u0627 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u0646\u0688\u0633\u0679\u0631\u06cc \u0645\u0639\u06cc\u0627\u0631 \u06a9\u06d2 \u0645\u0637\u0627\u0628\u0642 \u0688\u06cc\u0679\u0627 \u0627\u0646\u06a9\u0631\u067e\u0634\u0646 \u0627\u0648\u0631 \u0633\u062e\u062a \u0631\u0627\u0632\u062f\u0627\u0631\u06cc \u06a9\u06cc \u067e\u0631\u0648\u0679\u0648\u06a9\u0648\u0644 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u062a\u0627 \u06c1\u06d2 \u062a\u0627\u06a9\u06c1 \u0635\u0627\u0631\u0641\u06cc\u0646 \u06a9\u06d2 \u06a9\u0646\u0641\u06cc\u0688\u0646\u0634\u0644 \u0688\u06cc\u0679\u0627 \u06a9\u06cc \u062d\u0641\u0627\u0638\u062a \u06a9\u06cc \u062c\u0627 \u0633\u06a9\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06af\u0631 \u0645\u06cc\u06ba \u063a\u0644\u0637\u06cc \u0633\u06d2 \u0646\u0627 \u0627\u06cc \u0633\u06cc \u06a9\u06cc \u067e\u0686\u06be\u0631 \u06a9\u0633\u06cc \u06a9\u0648 \u062f\u06d2 \u062f\u0648\u06ba \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0627\u0679 \u0633\u06d2 \u062a\u0648 \u0627\u0633 \u06a9\u0648 \u06a9\u06cc\u0633\u06d2 \u0648\u0627\u067e\u0633 \u0688\u06cc\u0644\u06cc\u0679 \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06ba\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u06cc\u06a9 \u0628\u0627\u0631 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0627\u0679 \u0634\u06cc\u0626\u0631 \u06c1\u0648 \u062c\u0627\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0648\u06c1 \u0648\u0627\u067e\u0633 \u0646\u06c1\u06cc\u06ba \u0644\u06cc\u0627 \u062c\u0627 \u0633\u06a9\u062a\u0627\u06d4 \u0622\u067e \u06a9\u0648 \u0634\u06cc\u0626\u0631 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06a9\u06d2 \u0627\u0633\u06d2 \u062d\u0630\u0641 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u06a9\u06c1\u0646\u0627 \u06c1\u0648\u06af\u0627\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06cc\u0633\u0627 \u0646\u06c1\u06cc\u06ba \u06c1\u0648\u0633\u06a9\u062a\u0627 \u06a9\u06c1 \u0627\u06af\u0631 \u0645\u06cc\u06ba \u06a9\u0648\u0626\u06cc \u067e\u0633\u062e\u0627 \u0627\u0646\u0641\u0631\u0645\u06cc\u0634\u0646 \u06a9\u0627 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0648\u0679 \u0644\u06d2 \u0631\u06c1\u0627 \u06c1\u0648\u06ba  \u062a\u0648 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0648\u0679 \u0644\u06cc\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0648\u06c1 \u0633\u06a9\u0631\u06cc\u0646 \u06a9\u0627\u0644\u06cc \u06c1\u0648 \u062c\u0627\u0626\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u062c\u06cc \u0646\u06c1\u06cc\u06ba\u060c \u0627\u0633 \u0637\u0631\u062d \u06a9\u06cc \u0641\u06cc\u0686\u0631 \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0627\u06cc\u067e \u0645\u06cc\u06ba \u062f\u0633\u062a\u06cc\u0627\u0628 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2 \u06a9\u06c1 \u0633\u06a9\u0631\u06cc\u0646 \u0634\u0627\u0679 \u0644\u06cc\u0646\u06d2 \u06a9\u06d2 \u0628\u0639\u062f \u0633\u06a9\u0631\u06cc\u0646 \u06a9\u0627\u0644\u06cc \u06c1\u0648 \u062c\u0627\u0626\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? If you have any questions or need information about Abhi's services, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "Ewa kia h"
+        },
+        {
+            "role": "assistant",
+            "content": "EWA, ya Earned Wage Access, wo service hai jo mulaazmeen ko unki kamaai hui magar abhi tak unpaid salary tak un ke aagami payday se pehle raasai deta hai."
+        },
+        {
+            "role": "user",
+            "content": "Abhi App kis cheez k liay kam ata hai ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi App mulaazmeen ko unki kamaai hui magar unpaid salary tak jaldi raasai ke liye istemaal hota hai, bill payments aur raqam bhejne jese financial transactions ke liye bhi kam ata hai."
+        },
+        {
+            "role": "user",
+            "content": "Chlo thk hai mjko biryani k rate btao or pakistan mulk ki kia surat e haal hai is wqt nawaaz shareef kn hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhay maazrat chahiye, lekin Abhi fintech services provide karta hai aur biryani ke rates ya political ya current affairs se mutaliq maloomat provide nahi karta. Nawaz Sharif Pakistan ki siyaasi shakhsiyat hain aur Pakistan Muslim League (N) ki leadership karte hain. Pakistan ke current affairs aur taza tarin surat-e-haal ke liye, barah karam aap news sources ya relevant authorities se rabta karen."
+        },
+        {
+            "role": "user",
+            "content": "Nawaz shareef ki family k bare mai btao uske kitne bache hai kaha rhte hai or kia krte hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Nawaz Sharif, Pakistan ki mashhoor siyasi shakhsiyat aur Pakistan Muslim League-Nawaz (PML-N) ki senior leadership mein shamil hain. Unke personal life aur family ki details public domain mein hain. Nawaz Sharif ki shadi Kalsoom Nawaz se hui thi, aur unke teen bachche hain: Maryam Nawaz, Hassan Nawaz aur Hussain Nawaz. Family members ki residence aur professional activities ki maloomat time ke sath badal sakti hain, aur unki current status ke liye verified news sources ya official statements ka refer karna behtar hoga."
+        },
+        {
+            "role": "user",
+            "content": "Unka finance kaha se ata hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Nawaz Sharif aur unki family ke finance aur income sources ke baare mein sawalat aksar public domain mein discuss kiye jaate hain. Historically, unka taalluq business family se raha hai aur unhone multiple business ventures, jese ke steel industry aur real estate mein, kaam kiya hai. Tafseelat ke liye tax returns, business records, ya official declarations ka hawala zaroori hota hai jo ke legal aur financial regulatory bodies ke paas hoti hain. \n\nPublic figures ki finances ke baare mein verified aur detailed information ke liye, aap ko authorized government departments ya credible news sources se latest information leni chahiye."
+        },
+        {
+            "role": "user",
+            "content": "Kia abhi app use krte hai wo log ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Nawaz Sharif aur unki family ke Abhi app istemal karne ke bare mein koi maloomat mojood nahi hai. Abhi app aam taur par employees aur un ke employers ke liye designed hai takay wo apni earned salary tak jaldi access kar sakein. Nawaz Sharif aur unki family ke financial practices aur jo bhi services wo use karte hain, is ki maloomat unki personal ya public statements se hi hasil ki ja sakti hai."
+        },
+        {
+            "role": "user",
+            "content": "Tm ko imran khan ki sazza k bare mai kia kia pta hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Mere ilm mein latest information ke mutabiq, Imran Khan, jo Pakistan Tehreek-e-Insaf (PTI) ki leadership karte hain, un par kisi qisam ki saza ke bare mein koi verified information nahi hai. Kisi bhi public figure ki saza ya legal matters ke bare mein accurate aur current information ke liye aapko taaza tareen news sources aur official judicial statements ko check karna chahiye."
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? If you have any questions or need information about Abhi's services, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "Ewa kia hai ?"
+        },
+        {
+            "role": "assistant",
+            "content": "EWA, ya Earned Wage Access, ek service hai jisse mulaazmeen apni earned magar unpaid salary ko unki regular payday se pehle access kar sakte hain."
+        },
+        {
+            "role": "user",
+            "content": "Kia tm mjko Abhi app mai paisai kaise nikaltr hai bts skte ho ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jee bilkul. Abhi app se paisay nikalne ke liye:\n\n1. Abhi App download kar ke install karein aur usme apna CNIC number ke sath login karein.\n2. Home screen pe apna available balance check karein aur \"Nikalo Abhi\" button pe click karein.\n3. Mutalba raqam enter karein aur apne account ko select karein.\n4. Details ko verify karein aur confirm pe click karein; aapki raqam 30 seconds ke andar transfer ho jayegi."
+        },
+        {
+            "role": "user",
+            "content": "Aisi koi perosnal info nikal skta ho mai"
+        },
+        {
+            "role": "assistant",
+            "content": "Nahi, Abhi app istemal karne walay users ke personal information ya financial details ki privacy ko maintain kiya jata hai. Sirf user khud apni information access kar sakte hain aur ehtiyaat ke sath apni maloomat ko dusron se share karni chahiye. Agar aapko personal information access karne ki zarurat hai to aap apne account mein login kar ke hi apni details dekh sakte hain."
+        },
+        {
+            "role": "user",
+            "content": "Tm ko imran khan ki sazza k bare mai kia kia pta hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye, lekin main personal, specific legal cases, ya political figures ke judicial matters ke bare mein updated information provide nahi kar sakta hoon. Imran Khan ke legal status ya kisi saza ke bare mein taza tareen maloomat ke liye barah-e-karam aapko news sources ya official announcements par nazar rakhni chahiye."
+        },
+        {
+            "role": "user",
+            "content": "Chlo thk hai mjko biryani k rate btao or pakistan mulk ki kia surat e haal hai is wqt nawaaz shareef kn hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhay maazrat chahiye, lekin biryani ke rates ya Pakistan ke current affairs ke baare mein main koi direct information provide nahi kar sakta. Nawaz Sharif Pakistan ki siyasat ka ek jaana maana naam hai aur Pakistan Muslim League-Nawaz (PML-N) ke leader hain. Taaza tareen surat-e-haal aur biryani ke rates ke liye, local ya national news sources ya food-related websites dekhein."
+        },
+        {
+            "role": "user",
+            "content": "Chlo thk hai mjko biryani k rate btao or pakistan mulk ki kia surat e haal hai is wqt nawaaz shareef kn hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhay maazrat chahiye, lekin main biryani ke rates ya Pakistan ke current affairs ke baare mein direct information provide karne ki position mein nahi hoon. Nawaz Sharif Pakistan ki siyasi shakhsiyat hain aur Pakistan Muslim League (N) ke senior member hain. Pakistan ke current haalat aur biryani ke rates ke liye, aapko local news sources ya markets se latest information leni hogi."
+        },
+        {
+            "role": "user",
+            "content": "Nawaz shareef ki family k bare mai btao uske kitne bache hai kaha rhte hai or kia krte hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Nawaz Sharif, jo Pakistan Muslim League-Nawaz (PML-N) ke senior leader hain, ki family mein unki ahliya Kulsoom Nawaz (jo ke 2018 mein intiqal kar gayin), unke do bete, Hussain Nawaz aur Hassan Nawaz, aur ek beti, Maryam Nawaz, shamil hain. Nawaz Sharif ke bachche aur family ke doosre members mukhtalif karobar aur siyasi sargarmiyan mein hissa lete hain aur unka zyadatar waqt London aur Pakistan mein guzarta hai. Kulsoom Nawaz ke intiqal ke bad Nawaz Sharif ka family ke baki members ke saath close association hai. Unki family ka karobar aur siyasi kirdaar Pakistan mein kafi mashhoor hai.\n\nLatest details aur unki current whereabouts ke liye, verified news sources ka rujoo karna behtar hoga kyunki ye maloomat waqtan fa-waqtan badalti rehti hai."
+        },
+        {
+            "role": "user",
+            "content": "Unko knse case mai arrest kia gaya tha"
+        },
+        {
+            "role": "assistant",
+            "content": "Nawaz Sharif ko july 2017 mein Pakistan Supreme Court ke taraf se Panamagate scandal ke silsile mein disqualify kiya gaya tha aur uske baad unko multiple cases mein investigation aur trial ka samna karna para. July 2018 mein, unko corruption charges par National Accountability Bureau (NAB) ke zariat bhari jail ki saza sunai gai thi, jisme Avenfield property case sab se zyada mashhoor hai. Nawaz Sharif aur unhon ne family ke members ko corruption aur money laundering se mutaliq various cases mein unke roles ke liey accountability ka samna karna para hai.\n\nJaise ke ye legal matters hain, latest updates aur specific case details ke liye authoritative legal sources ya news channels ki taraf rujoo karna zaroori hai."
+        },
+        {
+            "role": "user",
+            "content": "To kia wo sb thk tha"
+        },
+        {
+            "role": "assistant",
+            "content": "Siyasi aur adliya matters mein kya \"sahi\" ya \"galat\" hai, ye akhir mein adalat ka faisla hota hai jo shawaid aur qanooni frameworks ke mutabiq decisions leti hain. Nawaz Sharif ke cases ko le kar public aur siyasi halqon mein mukhtalif raaye paai jati hai. Adalati faisle, appeals, aur siyasi reactions in matters mein commonly dekhe jaate hain. Nawaz Sharif ka case aur unki saza Pakistan ki siyasi tareekh ka ek ahem hissa ban chuka hai, aur esse jur'e final outcomes adalat ki taraf se hi aayega."
+        },
+        {
+            "role": "user",
+            "content": "Or kia unko bilkul begunnah decleqr kr dia hqi ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Nawaz Sharif ke legal cases mein unke gunahgaar ya be-gunnah honay ka faisla adalat ke zimmedari hai aur muqadmaat ka faisla shawaid, dalayel aur qanooni tajziye ke basis par hota hai. Yeh ek muzmarrad process hai jo adalat ke through chalta hai. Nawaz Sharif ke mamlaat mein different times par different faislay hue hain, appeals hui hain, aur legal opinions diye gaye hain. Kisi bhi taza tareen developments aur Nawaz Sharif ko be-gunnah ya gunahgaar qarar dene ke baray mein, official legal sources aur credible news reports se updated information li ja sakti hai."
+        }
+    ]
+}

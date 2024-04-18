@@ -1,0 +1,505 @@
+{
+    "user_id": "6585260352",
+    "chat": [
+        {
+            "role": "user",
+            "content": "/start"
+        },
+        {
+            "role": "assistant",
+            "content": "Welcome! How can I assist you with the ABHI Finance App today? If you have any questions or need guidance on using the app, feel free to ask."
+        },
+        {
+            "role": "assistant",
+            "content": "Welcome! How can I assist you with ABHI Finance App today? If you have any questions or need help with specific services such as Earned Wage Access, Payroll Solutions, or Invoice Factoring, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "/start"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today with ABHI\u2019s services? If you have any questions or require support, please let me know."
+        },
+        {
+            "role": "assistant",
+            "content": "Welcome! How can I assist you with ABHI Finance App today? If you have any questions or need guidance on using the app, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "Why Choose Abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "You might consider choosing Abhi for several reasons:\n\n1. Financial Flexibility: 55% of employees face unexpected expenses that they cannot cover with their monthly salary. Abhi provides the flexibility to access earned wages before the official payday, helping to cover these unforeseen costs without resorting to high-interest loans or credit.\n\n2. Enhanced Productivity: 85% of employees have shown interest in using the Earned Wage Access (EWA) service offered by Abhi. Having access to earned wages as needed can reduce financial stress, leading to higher employee productivity and focus at work.\n\n3. Improved Morale and Well-being: 81% of employers believe that the ability to access funds in an emergency positively affects employees' morale and well-being. When employees know they have quick access to their earned wages through Abhi, it can help alleviate anxiety associated with cash shortfalls.\n\nAbhi offers a service that emphasizes the well-being of employees by empowering them with more control over their finances, and in turn, this can support employers by fostering a more engaged and satisfied workforce."
+        },
+        {
+            "role": "user",
+            "content": "Is this Shariah Compliant service"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, it's 100% Shariah Compliant service. Abhi ensures that its services are in line with Islamic financial principles, making it suitable for customers who are seeking Shariah-compliant financial solutions."
+        },
+        {
+            "role": "user",
+            "content": ".How to use Abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Using Abhi is a straightforward process. Here are the steps you need to follow:\n\n1. **Download the App**: Download the Abhi app from your respective app store.\n\n2. **Login**: Open the app and log in using your CNIC Number (Computerized National Identity Card Number).\n\n3. **Check Balance**: On the home screen, you\u2019ll see your available balance. You can click on \"Nikalo Abhi\" (Withdraw Now) to access the amount you\u2019ve earned but haven\u2019t been paid yet.\n\n4. **Enter Amount**: Input the amount you require and select the account where you want the money to be transferred.\n\n5. **Confirm Transaction**: Verify your details and click confirm to proceed with the transaction.\n\n6. **Receive Funds**: Once confirmed, the amount will be transferred into your account within 30 seconds.\n\nRemember, you can utilize Abhi's services to withdraw up to 50% of your earned salary at any time before payday. It's a convenient solution to manage your cash flow and meet your financial needs instantly."
+        },
+        {
+            "role": "user",
+            "content": "Can I use ABHI if my company is not onboarded?"
+        },
+        {
+            "role": "assistant",
+            "content": "Just speak to the HR department at your organization and make sure you are added to the system. You should have no problem signing in! If your company is not already partnered with Abhi, you cannot use the service directly. However, you can request your HR department to consider partnering with Abhi to provide their employees with the benefit of Earned Wage Access. Once your company is onboarded and integrates with Abhi's platform, you will be able to use the service without any issues."
+        },
+        {
+            "role": "user",
+            "content": "who is elon musk"
+        },
+        {
+            "role": "assistant",
+            "content": "Elon Musk is an entrepreneur and business magnate known for founding and leading multiple high-profile technology companies. He was born on June 28, 1971, in Pretoria, South Africa. Musk is the CEO and lead designer of SpaceX (Space Exploration Technologies Corp.), a company that manufactures and launches advanced rockets and spacecraft with the goal of enabling space travel for humans. He is also the CEO and product architect of Tesla, Inc., which specializes in electric vehicles, battery energy storage, and solar energy products.\n\nAdditionally, Musk co-founded Neuralink, a neurotechnology company focused on developing brain-computer interfaces, and founded The Boring Company, which deals with tunnel construction and infrastructure.\n\nMusk is also known for his involvement with PayPal (formerly X.com) in its early stages, which was later acquired by eBay.\n\nHe is recognized for his vision to reduce global warming through sustainable energy production and consumption and aims to lessen the risk of human extinction by establishing a human settlement on Mars.\n\nElon Musk has become one of the most prominent figures in the tech industry, known for his ambitious projects and innovations in space travel, electric vehicles, and renewable energy."
+        },
+        {
+            "role": "user",
+            "content": "where can i get good coffee?"
+        },
+        {
+            "role": "assistant",
+            "content": "Finding good coffee can be subjective, as it depends on your personal taste preferences and location. However, here are some general tips to help you find a good cup of coffee:\n\n1. **Local Coffee Shops**: Search for local coffee shops or cafes with good reviews. Independent coffee shops often take great care in sourcing their beans and can offer a variety of high-quality brews.\n\n2. **Coffee Roasteries**: Look for local roasteries where you can buy freshly roasted coffee beans. Many roasteries also have cafes where you can taste their coffee and learn more about their roasting process.\n\n3. **Specialty Coffee Retailers**: Some retailers specialize in selling high-quality coffee from different roasters. These can be a good place to explore a wide range of coffee options.\n\n4. **Online Subscriptions**: Consider subscribing to a coffee delivery service that curates high-quality beans from various roasters and delivers them right to your doorstep.\n\n5. **Apps and Websites**: Use apps like Yelp, Google Maps, or TripAdvisor to find coffee shops with high ratings and positive reviews in your area.\n\n6. **Word of Mouth**: Ask friends, family, or colleagues for recommendations, especially if they are coffee enthusiasts.\n\n7. **Barista Competitions**: Check out barista competitions or coffee festivals in your area, as they can be a great way to discover leading coffee shops and baristas.\n\nRemember, a good coffee experience doesn't just depend on the coffee itself, but also on other factors such as the skill of the barista, the machine used, and the ambiance of the place. Don't hesitate to try out different places until you find the one that suits your taste best."
+        },
+        {
+            "role": "user",
+            "content": "what is the blackout period ?"
+        },
+        {
+            "role": "assistant",
+            "content": "The blackout period in the context of Abhi's Earned Wage Access (EWA) service is a designated time frame set by the employer during which employees cannot access their earned wages through the Abhi app. This period is typically aligned with the company's payroll processing time, when the employer is calculating and finalizing employee wages for the upcoming payroll cycle.\n\nDuring the blackout period, transactions are temporarily halted to allow for the accurate reconciliation of employee earnings and to prevent any potential discrepancies that might arise if withdrawals were permitted during payroll processing. It's a measure to ensure the integrity of the payroll process and the financial management of the company.\n\nEmployees will be able to use the EWA service through Abhi before and after the blackout period, provided they have sufficient earned wages that have not yet been paid out."
+        },
+        {
+            "role": "user",
+            "content": "abhi kn h"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi iss waqt Pakistan ka aik fintech start-up hai jo employees ko unki earned but unpaid salary ko bainul-aqwaami mayaar ke mutabiq access dene ka moqa deta hai. Employees apni earned salary ka fifty percent hissa app ya SMS ke zariye kabhi bhi, kahin se bhi withdraw kar sakte hain. Abhi ke zariye, employees financial stress se azaad ho ke kaam kar sakte hain aur employers zyada productivity ka lutf utha sakte hain."
+        },
+        {
+            "role": "user",
+            "content": "hathi k ande ko english me kia kehte hain ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Haathi (elephant) koi ande nahi dete hain; wo mammals hain jo live young (bachay) ko janam dete hain. English mein bhi elephant ke baby ko 'calf' kaha jata hai, jaise gaay (cow) ke bachay ko bhi 'calf' hi kaha jata hai."
+        },
+        {
+            "role": "user",
+            "content": "shitarmurgh k ande ko kia kehte hain"
+        },
+        {
+            "role": "assistant",
+            "content": "Shuturmurgh (ostrich) ke ande ko English mein \"ostrich egg\" kehte hain. Ostrich eggs duniya mein sab se bade bird eggs mein se hote hain aur wo kafi bhaari aur mazboot hotay hain."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0639\u0628\u06cc\u062f \u0633\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u062a\u0627 \u06c1\u06d2 \u0627\u0633 \u06a9\u0627 \u0646\u0645\u0628\u0631 \u062f\u06d2 \u062f\u0648give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a \u062e\u0648\u0627\u06c1 \u06c1\u0648\u06ba\u060c \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0648 \u06a9\u0633\u06cc \u0646\u062c\u06cc \u0627\u0641\u0631\u0627\u062f \u06a9\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u0646\u0645\u0628\u0631 \u0641\u0631\u0627\u06c1\u0645 \u0646\u06c1\u06cc\u06ba \u06a9\u0631 \u0633\u06a9\u062a\u0627\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0645\u062a\u0639\u0644\u0642\u06c1 \u0627\u0641\u0631\u0627\u062f \u06a9\u0648 \u0628\u0631\u0627\u06c1 \u0631\u0627\u0633\u062a \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 \u0646\u0645\u0628\u0631 \u0686\u0627\u06c1\u06cc\u06d2 \u0627\u0628\u06be\u06cc \u0622\u067e \u06a9\u06cc \u06a9\u0645\u067e\u0646\u06cc \u06a9\u0627give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "+923041115276"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0648 \u06a9\u06cc\u0633\u06d2 \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u0648 \u0622\u067e Google Play Store \u06cc\u0627 Apple App Store \u0633\u06d2 \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u06af\u0631 \u0622\u067e \u06a9\u0648 \u0627\u06cc\u06a9 \u0627\u06cc\u0633\u0627 \u0645\u0637\u0627\u0628\u0642 \u067e\u06cc\u0634 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u0626\u06d2 \u06a9\u06cc\u0627 \u06c1\u06d2 \u062a\u0648 \u0622\u067e \u06a9\u0648 \u0627\u06cc\u06a9 \u0627\u06cc\u0633\u0627 \u0645\u0637\u0627\u0628\u0642 \u067e\u06cc\u0634 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u0626\u06d2 \u06a9\u06cc\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645\u060c \u0633\u0648\u0627\u0644 \u06a9\u0648 \u0648\u0627\u0636\u062d \u06a9\u0631\u06cc\u06ba \u06cc\u0627 \u0627\u067e\u0646\u0627 \u0633\u0648\u0627\u0644 \u062f\u0648\u0628\u0627\u0631\u06c1 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0622\u067e \u06a9\u06cc \u0627\u0641\u0631\u0627\u062f \u0686\u0627\u06c1\u062a\u0627 \u06c1\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u06c1\u0645\u06cc\u06ba \u0627\u06cc \u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk \u067e\u0631\u060c \u06cc\u0627 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba +923041115276 \u067e\u0631."
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0633\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u0627\u067e \u0627\u067e \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06c1\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u06af\u0648\u06af\u0644 \u067e\u0644\u06d2 \u0633\u0679\u0648\u0631 \u06cc\u0627 \u0627\u06cc\u067e\u0644 \u0627\u06cc\u067e \u0633\u0679\u0648\u0631 \u0633\u06d2 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0633\u0644\u0627\u0645 \u0639\u0644\u06cc\u06a9\u0645 \u067e\u06cc\u0631\u0648 \u062d\u0627\u0644 \u0622\u0626\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0648\u0639\u0644\u06cc\u06a9\u0645 \u0627\u0644\u0633\u0644\u0627\u0645! \u0633\u0628 \u062e\u06cc\u0631\u06cc\u062a \u06c1\u06d2\u060c \u0622\u067e \u06a9\u06cc\u0633\u06d2 \u06c1\u06cc\u06ba\u061f"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0627\u0628\u06be\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0627\u0628\u06be\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "user",
+            "content": "Are u there??"
+        },
+        {
+            "role": "assistant",
+            "content": "\u062c\u06cc \u06c1\u0627\u06ba\u060c \u0627\u0628\u06be\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "\u062c\u06cc \u06c1\u0627\u06ba\u060c \u0627\u0628\u06be\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u0633\u06cc\u06a9\u06cc\u0648\u0631 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Hello?"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? If you have any questions or require information about ABHI's services, feel free to ask."
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? If you have any questions or need support with ABHI services, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0633\u06cc \u0648\u06cc\u0648 \u06a9\u0627 \u0631\u0627\u0633\u062a\u06c1 \u0628\u062a\u0627 \u062f\u0648 \u06af\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a\u060c \u0645\u06cc\u06ba \u0631\u0627\u0633\u062a\u06d2 \u06a9\u06cc \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u0646\u06c1\u06cc\u06ba \u06a9\u0631 \u0633\u06a9\u062a\u0627\u06d4 Google Maps \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0686\u06be\u0627 \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0644\u0648\u06af\u06cc\u0634\u0646 \u0628\u062a\u0627 \u062f\u06cc\u06ba  \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0642\u0631\u06cc\u0628 \u06a9\u0648\u0626\u06cc \u0644\u06cc\u0646\u0688 \u0648\u0627\u0631\u06a9 \u0628\u062a\u0627 \u062f\u06cc\u06ba  \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0642\u0631\u06cc\u0628 \u06a9\u0648\u0626\u06cc \u0631\u06cc\u0646\u0648\u0646\u0688 \u062c\u06af\u06c1 \u0628\u062a\u0627 \u062f\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 \u062f\u0641\u062a\u0631 Office 505 A, 5th Floor, Fortune Towers, Shahrah-e-Faisal, Karachi \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06c1\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0686\u06be\u0627 \u0627\u0628 \u0641\u0648\u0631\u0686\u0648\u0646 \u0679\u0627\u0648\u0631 \u06a9\u06c1\u0627\u06ba \u06c1\u06d2 \u0645\u0637\u0644\u0628 \u0627\u0633 \u06a9\u06d2 \u06a9\u0648\u0626\u06cc \u0635\u062f\u06cc\u062f \u0645\u06cc\u06ba \u06a9\u0648\u0626\u06cc \u0688\u06cc \u0646\u0648\u0646 \u062c\u06af\u06c1 \u0628\u062a\u0627\u0626\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "Fortune Towers, Shahrah-e-Faisal, Karachi \u06a9\u06d2 \u0642\u0631\u06cc\u0628 \u062c\u0646\u0627\u062d \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679 \u0627\u0648\u0631 \u0646\u0631\u0633\u0631\u06cc \u0641\u0631\u0646\u06cc\u0686\u0631 \u0645\u0627\u0631\u06a9\u06cc\u0679 \u0645\u0634\u06c1\u0648\u0631 \u0644\u06cc\u0646\u0688\u0645\u0627\u0631\u06a9\u0633 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0627\u06cc\u067e \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u0637\u0631\u06cc\u0642\u06c1 \u0628\u062a\u0627\u0626\u06cc\u06ba \u0645\u06af\u0631 \u0679\u06cc\u06a9\u0633 \u0645\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u06af\u0648\u06af\u0644 \u067e\u0644\u06d2 \u0633\u0679\u0648\u0631 \u06cc\u0627 \u0627\u06cc\u067e\u0644 \u0627\u06cc\u067e \u0633\u0679\u0648\u0631 \u0633\u06d2 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u062a\u06be\u0648\u0691\u0627 \u0628\u06c1\u062a \u0628\u062a\u0627\u0626\u06cc\u06ba \u0645\u06af\u0631 \u0644\u06a9\u06be \u06a9\u06d2 \u0628\u062a\u0627\u0626\u06cc\u06ba \u0645\u062c\u06be\u06d2 \u0648\u0627\u0626\u0633 \u0646\u06c1\u06cc\u06ba \u0686\u0627\u06c1\u06cc\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u06a9 \u0645\u0627\u0644\u06cc\u0627\u062a\u06cc \u0633\u0631\u0648\u0633 \u06c1\u06d2 \u062c\u0648 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0627\u064f\u0646 \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06af\u0626\u06cc \u0644\u06cc\u06a9\u0646 \u0627\u062f\u0627 \u0646\u06c1 \u06a9\u06cc \u06af\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u0631\u0633\u0627\u0626\u06cc \u0645\u06c1\u06cc\u0627 \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06ccgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc \u0622\u0648\u0627\u0632\u0648\u06ba \u06a9\u0627 \u0641\u0646 \u06c1\u06d2 \u062c\u0648 \u0633\u064f\u0631\u060c \u062a\u0627\u0644\u060c \u0627\u0648\u0631 \u06c1\u0645 \u0622\u06c1\u0646\u06af\u06cc \u0633\u06d2 \u0628\u0646\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 \u0646\u0645\u0628\u0631 \u0641\u0631\u0627\u0645 \u06a9\u0631\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "+923041115276"
+        },
+        {
+            "role": "user",
+            "content": "\u0641\u0627\u0633\u0679 \u0627\u06cc \u0628\u06cc \u0627\u06d2 \u06a9\u06cc\u0627 \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0645\u0632\u06cc\u062f \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u06cc\u06ba \u06cc\u0627 \u062f\u0631\u0633\u062a \u0646\u0627\u0645 \u0628\u062a\u0627\u0626\u06cc\u06ba \u062a\u0627\u06a9\u06c1 \u0645\u06cc\u06ba \u0635\u062d\u06cc\u062d \u062c\u0648\u0627\u0628 \u062f\u06d2 \u0633\u06a9\u0648\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u0633\u06d2 \u0645\u06cc\u06ba \u06a9\u062a\u0646\u06d2 \u067e\u0631\u0633\u0646\u0679 \u0633\u06cc\u0648\u0646\u06af \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0633\u06d2 \u0622\u067e \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06af\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 50% \u062a\u06a9 \u0627\u06cc\u06a9\u0633\u06cc\u0633 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u062c\u0648 \u06c1\u06d2 \u0627\u0633 \u06a9\u0627 \u0646\u0645\u0628\u0631 \u0628\u062a\u0627 \u062f\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "+923041115276"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0628\u0644\u06cc\u06a9 \u0622\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0644\u06cc\u06a9 \u0622\u0648\u0679 \u067e\u06cc\u0631\u06cc\u0688 \u0648\u06c1 \u0648\u0642\u062a \u06c1\u0648\u062a\u0627 \u06c1\u06d2 \u062c\u0628 \u0645\u0644\u0627\u0632\u0645 \u0627\u067e\u0646\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u067e\u06cc\u0634\u06af\u06cc \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06c1 \u0646\u06c1\u06cc\u06ba \u06a9\u0631 \u0633\u06a9\u062a\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0633\u06d2 \u0627\u06cc\u06a9 \u06a9\u0645\u067e\u0646\u06cc \u06af\u0631\u0646 \u067e\u06cc\u0631\u0648\u0644 \u0688\u0627\u0644 \u0633\u06a9\u062a\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u06a9\u0645\u067e\u0646\u06cc \u06a9\u0648 \u0627\u0628\u06be\u06cc \u067e\u0648\u0631\u0679\u0644 \u067e\u0631 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u06cc \u062a\u0641\u0635\u06cc\u0644\u0627\u062a\u060c \u062a\u0646\u062e\u0648\u0627\u06c1\u060c \u0627\u0648\u0631 \u0627\u06a9\u0627\u0624\u0646\u0679 \u06a9\u06cc \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u067e\u0644\u0648\u0688 \u06a9\u0631\u0646\u06cc \u067e\u0691\u062a\u06cc \u06c1\u06cc\u06ba\u060c \u067e\u06be\u0631 \u0646\u0626\u06cc \u067e\u06cc\u0631\u0648\u0644 \u0628\u0646\u0627 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u062a\u0648 \u0645\u06cc\u06ba \u0628\u0686\u062a\u0627 \u06c1\u0627\u06ba \u062a\u06be\u06ccgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06a9\u06d2 \u0622\u067e \u0645\u0627\u06c1\u0627\u0646\u06c1 \u0628\u062c\u0679 \u0645\u06cc\u0646\u062c\u0645\u0646\u0679 \u0645\u06cc\u06ba \u0645\u062f\u062f \u062d\u0627\u0635\u0644 \u06a9\u0631\u06a9\u06d2 \u0628\u0686\u062a \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Hi \u263a\ufe0f"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! \u263a\ufe0f How can I assist you today? If you have any queries or need assistance with ABHI services, please let me know!"
+        },
+        {
+            "role": "user",
+            "content": "\u0644\u0648\u06af \u06a9\u0648\u0646 \u06a9\u0648\u0646 \u0633\u06cc \u0644\u06cc\u0646\u06af\u0648\u0688 \u062c\u0627\u0646\u062a\u06d2 \u06c1\u0648give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0644\u0648\u06af \u062f\u0646\u06cc\u0627 \u0628\u06be\u0631 \u0645\u06cc\u06ba \u0645\u062e\u062a\u0644\u0641 \u0632\u0628\u0627\u0646\u06cc\u06ba \u062c\u0627\u0646\u062a\u06d2 \u06c1\u06cc\u06ba \u062c\u06cc\u0633\u06d2 \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc\u060c \u0627\u0631\u062f\u0648\u060c \u06c1\u0633\u067e\u0627\u0646\u0648\u06cc\u060c \u0686\u06cc\u0646\u06cc \u0648\u063a\u06cc\u0631\u06c1\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0622\u067e \u06a9\u0648\u0646\u0633\u06cc \u0644\u06cc\u0646\u06af\u0648\u06cc\u062c\u0632 \u062c\u0627\u0646\u062a\u06d2 \u06c1\u0648\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u06cc\u06ba \u06a9\u0626\u06cc \u0632\u0628\u0627\u0646\u0648\u06ba \u0645\u06cc\u06ba \u0645\u062f\u062f \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06ba\u060c \u062c\u06cc\u0633\u06d2 \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc\u060c \u0627\u0631\u062f\u0648\u060c \u0627\u0648\u0631 \u062f\u06cc\u06af\u0631\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u062a\u0645\u06c1\u06cc\u06ba \u0631\u0648\u0645\u0646 \u0627\u0631\u062f\u0648 \u0622\u062a\u06cc \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u062c\u06cc \u06c1\u0627\u06ba\u060c \u0631\u0648\u0645\u0646 \u0627\u0631\u062f\u0648 \u0622\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc\u0648\u06ba \u0627\u0646\u062f\u0631 \u06a9\u0627 \u0646\u0627\u0645 \u0628\u062a\u0627\u0626\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0627 \u0646\u0627\u0645 \u0627\u0633 \u0644\u06cc\u06d2 \u0631\u06a9\u06be\u0627 \u06af\u06cc\u0627 \u06a9\u06cc\u0648\u0646\u06a9\u06c1 \u06cc\u06c1 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648\u06c1\u0646\u06af\u0627\u0645\u06cc \u0645\u0627\u0644\u06cc\u0627\u062a\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u0627 \u062d\u0644 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \"\u0627\u0628\u06be\u06cc\" \u06a9\u0627 \u0645\u0637\u0644\u0628 \u0641\u0648\u0631\u06cc \u06c1\u0648\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06d2 \u06a9\u0645\u067e\u0646\u06cc \u0645\u06cc\u06ba \u06a9\u062a\u0646\u0627 \u0633\u0679\u0627\u0631\u0679 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u062a\u0646\u06d2 \u0644\u0648\u06af \u0645\u06cc\u0644 \u06c1\u06cc\u06ba \u06a9\u062a\u0646\u06d2 \u0641\u06cc \u0645\u06cc\u0644 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk \u06cc\u0627 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba +923041115276 \u0645\u0632\u06cc\u062f \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u06a9\u06d2 \u0644\u0626\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc \u0628\u0644\u0688\u0646\u06af \u06a9\u06c1\u0627\u06ba \u067e\u0631 \u06c1\u06d2 \u06cc\u06c1 \u0628\u062a\u0627 \u062f\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0648\u0631 \u0627\u0628\u06be\u06cc \u062c\u0648 \u06c1\u06d2  \u06a9\u06c1 \u0622\u0633 \u067e\u0627\u0633 \u06a9\u0627 \u06a9\u0648\u0626\u06cc \u0644\u06cc\u0646\u0688 \u0645\u0627\u0631\u06a9give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "Office 505 A, 5th Floor, Fortune Towers, Shahrah-e-Faisal, Karachi."
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u0645\u06cc\u06ba \u0645\u06cc\u06ba \u06a9\u062a\u0646\u06d2 \u067e\u06cc\u0633\u06d2 \u0627\u0631\u0646 \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0633\u06d2 \u0622\u067e \u067e\u06cc\u0633\u06d2 \u0646\u06c1\u06cc\u06ba \u06a9\u0645\u0627 \u0633\u06a9\u062a\u06d2\u061b \u06cc\u06c1 \u0622\u067e \u06a9\u06cc \u0627\u0631\u0646 \u06a9\u06cc \u06af\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u062c\u0644\u062f\u06cc \u0631\u0633\u0627\u0626\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u067e\u06cc \u0631\u0648\u0644 \u0641\u0627\u0626\u0646\u0646\u0633\u0646\u06af \u06a9\u06cc\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0633\u06d2 \u0627\u06cc\u06a9 \u06a9\u0645\u067e\u0646\u06cc \u067e\u06cc\u0631\u0648\u0644 \u06a9\u0631\u0633\u06a9\u062a\u0627 \u06c1\u06d2 \u0627\u0628\u06be\u06cc\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u067e\u06d2 \u0631\u0648\u0644 \u0641\u0646\u0627\u0646\u0633\u0646\u06af \u0627\u06cc\u06a9 \u0633\u0631\u0648\u0633 \u06c1\u06d2 \u062c\u0648 \u06a9\u0645\u067e\u0646\u06cc\u0648\u06ba \u06a9\u0648 \u06a9\u06cc\u0634 \u0641\u0644\u0648 \u0645\u0633\u0627\u0626\u0644 \u06a9\u06d2 \u0628\u0627\u0648\u062c\u0648\u062f \u0648\u0642\u062a \u067e\u0631 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u062a\u0646\u062e\u0648\u0627\u06c1 \u062f\u06cc\u0646\u06d2 \u0645\u06cc\u06ba \u0645\u062f\u062f \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0688\u0633 \u0627\u0646 \u0648\u0627\u0626\u0632 \u0641\u06cc\u06a9\u0679\u0648\u0631\u0646\u06afgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u06a9\u0645\u067e\u0646\u06cc \u0627\u0628\u06be\u06cc \u067e\u0648\u0631\u0679\u0644 \u067e\u0631 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u06cc \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u067e\u0644\u0648\u0688 \u06a9\u0631 \u06a9\u06d2 \u067e\u06cc\u0631\u0648\u0644 \u0686\u0644\u0627 \u0633\u06a9\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0633\u06d2 \u0627\u0646\u0648\u0627\u0626\u06cc \u0633\u067e\u06cc\u06a9\u0679\u0631\u0646\u06af \u06a9\u0627\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0646\u0648\u0627\u0626\u0633 \u0641\u06cc\u06a9\u0679\u0648\u0631\u0646\u06af \u0627\u06cc\u06a9 \u0645\u0627\u0644\u06cc \u062e\u062f\u0645\u062a \u06c1\u0648\u062a\u06cc \u06c1\u06d2 \u062c\u0648 \u06a9\u0627\u0631\u0648\u0628\u0627\u0631 \u06a9\u0648 \u0627\u064f\u0646 \u06a9\u06cc \u063a\u06cc\u0631 \u0627\u062f\u0627 \u0634\u062f\u06c1 \u0627\u0646\u0648\u0627\u0626\u0633\u0632 \u06a9\u06d2 \u062e\u0644\u0627\u0641 \u0641\u0646\u0627\u0646\u0633 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "What error"
+        },
+        {
+            "role": "assistant",
+            "content": "To assist you with an error, I need to know more details about the problem you are experiencing. Could you please provide me with the specific error message or describe the issue you're facing?"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u0645\u06cc\u06ba \u06a9\u062a\u0646\u06d2 \u0633\u0679\u0627\u0641 \u0645\u0645\u0628\u0631 \u06c1\u06cc\u06ba \u0627\u0648\u0631 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0628\u0644\u0688\u0646\u06af \u06a9\u06c1\u0627\u06ba \u067e\u0631 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0631\u0627\u0628\u0637\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0627\u06cc \u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba connect@abhi.com.pk \u06cc\u0627 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba +923041115276. Abhi \u06a9\u0627 \u062f\u0641\u062a\u0631 Office 505 A, 5th Floor, Fortune Towers, Shahrah-e-Faisal, Karachi \u0645\u06cc\u06ba \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06c1\u0648\u0626\u06cc\u0632 \u062f\u0648 \u0622\u0646 \u0622\u0626\u06cc\u06c1 \u0686\u06cc\u0626\u0631 \u067e\u0631\u0633\u0646 \u0622\u0641 \u0622\u06afgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a\u060c \u0627\u0633 \u0633\u0648\u0627\u0644 \u06a9\u0627 \u06a9\u0648\u0626\u06cc \u0648\u0627\u0636\u062d \u062c\u0648\u0627\u0628 \u0646\u06c1\u06cc\u06ba \u0645\u0644 \u0633\u06a9\u0627\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0648\u0627\u0636\u062d \u06a9\u0631\u06cc\u06ba \u06cc\u0627 \u0645\u062e\u0635\u0648\u0635 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0644\u0627\u0626\u06d2 \u0622\u0626\u06cc  \u0644\u0627\u0626\u06d2 \u0622\u0626\u06cc \u0686\u0648\u0633\u06cc\u0648  \u0622\u0648\u06ccgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u067e \u06a9\u0627 \u0633\u0648\u0627\u0644 \u0648\u0627\u0636\u062d \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0633\u0648\u0627\u0644 \u06a9\u0648 \u0635\u0627\u0641 \u0637\u0648\u0631 \u067e\u0631 \u0628\u06cc\u0627\u0646 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0648\u06ba \u0645\u06cc\u06ba \u0627\u0628\u06be\u06cc \u0686\u06be\u0648\u0691\u0627 \u06c1\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u0645\u062f\u062f \u062a\u0628 \u06c1\u06cc \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06ba \u062c\u0628 \u0622\u067e \u0648\u0627\u0636\u062d \u06a9\u0631\u06cc\u06ba \u06a9\u06c1 \u0622\u067e \u06a9\u0627 \u0645\u0633\u0626\u0644\u06c1 \u06a9\u06cc\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0648\u06ba \u0645\u06cc\u06ba \u0627\u06cc\u06a9 \u0628\u06cc\u0679\u06be\u0627 \u0686\u06be\u0648\u0691\u0627 \u06c1\u0648\u06ba\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a\u060c \u0633\u0648\u0627\u0644 \u0648\u0627\u0636\u062d \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0645\u0632\u06cc\u062f \u0648\u0636\u0627\u062d\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u06cc\u06ba \u0627\u0628\u06be\u06cc \u06a9\u06cc\u0648\u06ba \u0633\u06cc\u0644\u06cc\u06a9\u0679 \u06a9\u0631\u0648\u06ba \u0645\u06cc\u06ba \u0627\u0628\u06be\u06cc \u06a9\u06cc\u0648\u06ba \u0631\u06cc\u062c\u0633\u0679\u0631 \u06a9\u0631\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u0648 \u0627\u0633 \u0644\u06cc\u06d2 \u0645\u0646\u062a\u062e\u0628 \u06a9\u0631\u06cc\u06ba \u06a9\u06cc\u0648\u0646\u06a9\u06c1 \u06cc\u06c1 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0627\u0646 \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u0644\u06cc\u06a9\u0646 \u0627\u062f\u0627 \u0646\u06c1 \u06a9\u06cc \u06af\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u0641\u0648\u0631\u06cc \u0631\u0633\u0627\u0626\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u060c \u0645\u0627\u0644\u06cc \u0628\u0648\u062c\u06be \u06a9\u0648 \u06a9\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u060c \u0627\u0648\u0631 \u06a9\u0627\u0645 \u06a9\u06cc \u062c\u06af\u06c1 \u067e\u0631 \u062e\u0648\u0634\u06cc \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Why choose abhi"
+        },
+        {
+            "role": "assistant",
+            "content": "You might consider choosing Abhi for several reasons:\n\n- **Financial Flexibility**: Abhi provides employees with immediate access to their earned but unpaid wages, offering financial flexibility to handle unexpected expenses.\n\n- **Stress Reduction**: Abhi helps reduce financial stress for employees, improving their well-being and productivity.\n\n- **Improved Morale**: Employers report increased employee morale when their financial needs are met with more flexible solutions.\n\n- **Cost-Effectiveness**: Transactions through Abhi carry a minimal fee of Rs. 100 per transaction, which is economical compared to other financial solutions.\n\n- **Convenience**: Abhi's mobile app makes it easy for employees to access their wages anytime, anywhere within 30 seconds.\n\n- **Shariah-Compliant**: The service is 100% Shariah-compliant, appealing to individuals seeking ethical financial services.\n\n- **Employer Benefits**: Employers benefit from enhanced employee satisfaction and retention with no sign-up or subscription fees.\n\nChoosing Abhi can provide you and your employees with a modern and employee-centric financial solution that caters to immediate wage access needs."
+        },
+        {
+            "role": "user",
+            "content": "How to use abhi"
+        },
+        {
+            "role": "assistant",
+            "content": "To use Abhi, follow these simple steps:\n\n1. **Download the App**: Get the Abhi App from the Google Play Store or Apple App Store.\n2. **Login**: Use your CNIC Number to log in.\n3. **Check Balance**: View your available balance on the homescreen.\n4. **Withdraw**: Click on \"Nikalo Abhi\" and enter the amount you wish to withdraw.\n5. **Select Account**: Choose the account you want to transfer money to.\n6. **Confirm**: Check the details and confirm the transaction.\n7. **Transaction Complete**: The amount will be transferred to your account within 30 seconds."
+        },
+        {
+            "role": "user",
+            "content": "???"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I assist you today? If you have any more questions or require further information, please let me know!"
+        },
+        {
+            "role": "user",
+            "content": "Send me the link of your app?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but as a text-based assistant, I'm unable to provide direct links. However, you can easily find the Abhi app by searching for it in the Google Play Store for Android devices or the Apple App Store for iOS devices. Just type \"Abhi Finance\" in the search bar, and you should be able to locate and download the app from there."
+        },
+        {
+            "role": "user",
+            "content": "Send me email of abhi"
+        },
+        {
+            "role": "assistant",
+            "content": "You can email Abhi at connect@abhi.com.pk."
+        }
+    ]
+}

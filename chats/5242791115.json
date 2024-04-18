@@ -1,0 +1,183 @@
+{
+    "user_id": "5242791115",
+    "chat": [
+        {
+            "role": "user",
+            "content": "/start"
+        },
+        {
+            "role": "assistant",
+            "content": "Welcome! How can I assist you with ABHI Finance App today? If you need help with any specific feature or have questions regarding the app, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "What is abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "\"Abhi\" is a financial service that provides an earned wage access platform, which allows employees to access a portion of their earned but unpaid wages before their regular payday. It operates in countries like Pakistan, catering to the needs of employees who may require immediate funds to handle emergencies or unexpected expenses.\n\nThe service is offered through a mobile app, where registered users can request an advance on their earned income. This is not a loan but rather an advance on wages they have already earned through their work. The idea is to offer financial flexibility and help employees avoid predatory lending practices or high-interest loans by providing access to their earnings when they need it the most.\n\nIf you have specific questions or need assistance with the Abhi Finance App, please let me know, and I'd be happy to help!"
+        },
+        {
+            "role": "user",
+            "content": "How can I contact abhi"
+        },
+        {
+            "role": "assistant",
+            "content": "To contact Abhi, you can usually utilize a variety of methods depending on the reason for your inquiry. Here are some common ways to get in touch with them:\n\n1. **Customer Support:** The Abhi app typically includes a customer support or help section where you can find contact details or submit a request for assistance.\n\n2. **Email:** You can send an email to the customer support email address provided by Abhi. This is usually found on their website or within the app's contact information.\n\n3. **Phone:** Abhi may provide a customer service number that you can call for immediate assistance during their business hours.\n\n4. **Social Media:** You can also reach out to Abhi through their social media accounts (such as Facebook, Twitter, or LinkedIn) for inquiries or support.\n\n5. **Live Chat:** Some apps offer a live chat feature for real-time assistance from customer support representatives.\n\n6. **Help Center or FAQ:** There may be a Help Center or FAQ (Frequently Asked Questions) on their website or app that can answer your questions without needing to contact customer support directly.\n\nDo keep in mind that these are general methods of contact and might vary based on your location or the specific services offered by Abhi. For the most accurate and up-to-date contact information, refer to the official website or the app itself."
+        },
+        {
+            "role": "user",
+            "content": "Tell me phone of Abhi"
+        },
+        {
+            "role": "assistant",
+            "content": "To get the most accurate and up-to-date phone contact information for Abhi Finance, please visit their official website or check within the app if you already have it installed. Companies often list their customer service or support phone numbers in their contact us or help sections. \n\nIf you are unable to find the information, or if you do not have access to the app or the internet, you might try looking for contact details on any official documentation or communication you've received from Abhi, such as emails or brochures.\n\nPlease note that I don't have real-time access to external databases or the current contact information for specific companies, including Abhi Finance. Hence, I am unable to provide you with a direct phone number."
+        },
+        {
+            "role": "user",
+            "content": "Tell me email of abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "As of my last update, I don't have real-time access to specific contact details for companies, including Abhi Finance. To find the official customer support or contact email for Abhi, you should:\n\n1. Visit their official website.\n2. Look for the contact or support section within the Abhi Finance App.\n3. Check for any help or FAQ sections where they might list contact details.\n\nYou can also reach out via their social media platforms if that information is not readily available. Email addresses for customer support are often provided for users to send inquiries or to request assistance. However, I would recommend using the most official and secure channels for contacting financial services to ensure your privacy and security are maintained."
+        },
+        {
+            "role": "user",
+            "content": "From where I can download abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "You can download the Abhi Finance App from the official app stores for your mobile device:\n\nFor Android devices:\n- Visit the Google Play Store.\n- Search for \"Abhi Finance app\" or just \"Abhi.\"\n- Once you find the app, click on \"Install\" to download it onto your device.\n\nFor iOS devices:\n- Go to the Apple App Store.\n- Search for \"Abhi Finance app\" or just \"Abhi.\"\n- When you locate the app, tap on \"Get\" or the download icon to download and install it on your iPhone or iPad.\n\nAlways make sure you are downloading the legitimate and official app by checking the developer's name and app reviews. Also, it's advisable to visit the official Abhi website for any direct links to their app in the app stores or for more specific instructions on how to download their mobile application."
+        },
+        {
+            "role": "user",
+            "content": "How abhi provides advance"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi provides an advance on an employee's earned wages through their mobile platform, which is based on the concept of Earned Wage Access (EWA). Here's how the process generally works:\n\n1. **Integration with Employers:** Abhi partners with employers to integrate their system with the company's payroll. This integration allows Abhi to determine the amount of money that an employee has earned but not yet been paid.\n\n2. **Employee Registration:** Employees of partnered companies can sign up for Abhi through the app. They need to provide necessary details to verify their employment and the amount they can withdraw based on their earned wages.\n\n3. **Requesting an Advance:** Once registered, employees can use the app to check how much of their earned wages are available for advance at any given time. If they need funds, they can request an advance for a portion of the wages they've already earned but which haven't been paid out yet by their employer.\n\n4. **Transfer of Funds:** After an employee requests an advance, Abhi processes the request and transfers the funds to the employee's account, typically within a short period.\n\n5. **Repayment:** On the upcoming payday, the advanced amount is automatically deducted from the employee's paycheck and repaid to Abhi. The process is facilitated by the employer-payroll integration, ensuring a smooth transaction.\n\n6. **Fees:** Abhi may charge a small fee for providing this service. The fee structure can depend on various factors such as the amount of the advance, employer arrangements, or any promotional offers.\n\nIt's important to understand that when you access your earned wages before the official payday, you're not taking a loan but merely advancing the money that you would receive anyway. EWA services like Abhi aim to provide employees with more flexibility and help them manage their cash flow without resorting to more expensive and risky credit options."
+        },
+        {
+            "role": "user",
+            "content": "My salary is 100000 how much advance i can avail"
+        },
+        {
+            "role": "assistant",
+            "content": "The amount of advance you can avail from Abhi or any Earned Wage Access (EWA) service like it typically depends on several factors:\n\n1. **Employer's Policy:** Your employer might have a specific policy regarding the percentage of the earned salary that can be accessed in advance.\n\n2. **Earnings Accumulated:** The amount available for advance will also depend on how much of your salary you have already earned. For instance, if you're halfway through the pay period, you might have earned approximately half of your salary.\n\n3. **Company's Agreement with Abhi:** The exact terms of how Abhi works with your employer can affect the amount you can advance. Some companies may allow a certain percentage of the earned wages to be taken out, while others might have different limitations.\n\nGenerally, EWA services allow employees to access up to a certain percentage of their earned income. This percentage can vary, but it often ranges from 50% to a substantial portion of the net earned salary at that point in the pay cycle. The actual amount available for you to advance will also account for any previous advances you may have taken and the fees associated with the transaction.\n\nFor the most accurate information, you should directly refer to the Abhi app after registering and linking your employment details. The app will calculate how much you can advance based on your specific situation and the agreement with your employer. If you have further questions, contacting Abhi's customer service or your HR department would provide the most relevant guidance."
+        },
+        {
+            "role": "user",
+            "content": "Abhi kia hai ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi ek financial service hai jo Pakistan mein operate karti hai, aur yeh employees ko un ke earned lekin unpaid wages tak jaldi access dene ki suvidha deti hai. Is service ke zariye, employees apne regular payday se pehle un paison tak pohanch sakte hain jo unhone kamaye hain lekin abhi tak unko adaa nahi kiye gaye hain.\n\nYeh platform basically ek mobile app ke thorugh kaam karta hai, jahan registered users apni earned income ka ek hissa pehle le sakte hain. Yeh advance un paison par hota hai jo employee ne apne kaam ke zariye kamaye hote hain, aur yeh ek loan nahi hota. Abhi ka maqsad financial flexibility faraham karna aur employees ko high-interest loans ya predatory lending practices ki taraf jaane se bachana hota hai taaki jab unko urgent funds ki zaroorat ho, toh woh apni earnings ko access kar sakein.\n\nAgar aap Abhi Finance App ke baare mein mukammal tafseelat chahte hain ya koi specific madad chahiye, toh barah karam mujh se sawaal pooch lyn."
+        },
+        {
+            "role": "user",
+            "content": "Abhi ki aap kahan se download hoti hai?"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi app ko aap Android ya iOS device ke liye official app stores se download kar sakte hain:\n\n**Android Users ke liye:**\n- Google Play Store par jaen.\n- \"Abhi\" ya \"Abhi Finance app\" likh kar search karen.\n- App ko dhoondhne ke baad, \"Install\" ka button press karen aur app ko apne device par install karne ke liye permission dein.\n\n**iOS Users ke liye:**\n- Apple App Store kholen.\n- \"Abhi\" ya \"Abhi Finance app\" search bar mein type karen.\n- App mil jaane ke baad, \"Get\" ya download icon par click karen, aur app ko apne iPhone ya iPad par install karen.\n\nYeh ensure karen ke aap jo app download kar rahe hain woh legitimate aur official hai, iske liye developer's name aur app reviews zaroor check karen. Abhi ke official website par bhi app download karne ki direct link mojood hogi aur wahan se bhi aap app ko download kar sakte hain."
+        },
+        {
+            "role": "user",
+            "content": "Mujhe app download ka link batain"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujh maazrat chahta hoon, lekin main aapko direct link provide nahi kar sakta, kyun ke mere pas internet access ya current link ki information mojood nahi hai. ABHI Finance ki official app ko download karne ke liye aap nimnalikhit steps ko follow kar sakte hain:\n\n**Google Play Store ke liye (Android Devices):**\n1. Apne mobile device par Google Play Store kholein.\n2. Search bar mein \"Abhi\" ya \"Abhi Finance app\" type kar ke search karen.\n3. App ko select karen aur 'Install' par click karen.\n\n**Apple App Store ke liye (iOS Devices):**\n1. Apne iPhone ya iPad par Apple App Store kholein.\n2. Search bar mein \"Abhi\" ya \"Abhi Finance app\" likh kar search karen.\n3. App ko select karen aur download icon ya 'Get' par click karen.\n\nAgar aapko link ke zariye direct download karna hay to aap Abhi ki official website par visit kar sakte hain jahan se aksar companies apni apps ki direct download links share karti hain. Aap ko wahan par app ke liye Google Play Store ya Apple App Store ki link mil jayegi.\n\nHamesha official website se link ko follow karna behtar hota hai takay aap ghair-mutawaqa masail se bach sakein aur secure tareeqe se app ko download kar sakte hain."
+        },
+        {
+            "role": "user",
+            "content": "Mera abhi aap ka password kaam nai ker raha"
+        },
+        {
+            "role": "assistant",
+            "content": "Agar aapka ABHI Finance App ka password kaam nahi kar raha hai, toh aap password reset karne ka process follow kar sakte hain. Yahan kuch steps diye gaye hain jo aam taur par password reset karne ke liye follow kiye jaate hain:\n\n1. **App Open Kijiye:** Sabse pehle ABHI Finance app ko apne mobile par open kijiye.\n\n2. **Login Screen Par Jayein:** Login screen par jo option \"Forgot Password?\" ya \"Password Bhool Gaye?\" kehte hain us par click kijiye.\n\n3. **Email Provide Karen:** Aapko apna register kiya hua email address provide karna hoga taake password reset link ya instructions aapko send ki ja saken.\n\n4. **Instructions Follow Karen:** Email me mojood instructions ko follow karte huye, aap password reset page par ja sakte hain jahan aapko new password set karna hoga.\n\n5. **New Password Set Karen:** A new, strong password choose kijiye jo aap pehle kabhi use nahi kiye hon aur usko enter kijiye jahan zaroorat ho.\n\n6. **Confirmation:** Confirm kijiye ke new password set ho gaya hai aur phir se login ki koshish kijiye.\n\nAgar aapko koi error message aaraha hai ya resetting process me koi pareshani aa rahi hai, to directly ABHI customer support se contact karna behtar hoga. Wo aam taur par app me diye gaye 'help' ya 'support' section se, ya phir unke official website par diye gaye contact information ke zariye kiya ja sakta hai. Wahan se aapko further assistance mil payegi."
+        },
+        {
+            "role": "user",
+            "content": "Kia abhi app faceid se login ho sakta hai?"
+        },
+        {
+            "role": "assistant",
+            "content": "ABHI Finance App ke exact updates aur features mere last knowledge cutoff date tak mojood nahi hain, is liye agar app ne recently FaceID ya kisi aur biometric authentication method ko support karna shuru kiya hai, toh main is ki confirmation nahi de sakta. \n\nBuniadi tor par, biometric login features jaise ke FaceID (iOS devices ke liye) aur fingerprint authentication (kuch Android devices ke liye) aam tor par zyada security aur user convenience ke liye apps mein shamil kiye jaate hain. Agar ABHI Finance ne yeh feature shamil kiya hai to:\n\n1. **App Settings Check Karen:** ABHI Finance App mein login ki settings check kar ke dekhein ke aya FaceID ya kisi aur biometric feature ka option mojood hai.\n\n2. **Enable FaceID:** Agar option mojood hai to aap usay enable kar sakty hain aur instructions follow kar ke setup complete karain.\n\n3. **Use FaceID for Login:** Ab jab bhi aap app ko open karain ge, aap se FaceID ke zariye login karne ka option pucha jaega.\n\nAgar aapko yeh feature app mein nazar nahi a raha to ye ho sakta hai ke ABHI Finance abhi tak is feature ko support nahi karta ya phir aapke device mein wo feature available nahi hai. Is situation mein, aap directly unke customer support se rabta kar ke confirm kar sakte hain ke aya yeh suvidha unki app mein available hai ya nahi."
+        },
+        {
+            "role": "user",
+            "content": "Customer support ka number batain"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahye, lekin main real-time maloomat tak rasai nahi rakhta aur na he mujhe ABHI Finance ke customer support ka koi taaza number maloom hai. Aapko ABHI Finance ki customer support ya helpdesk se rabta karne ke liye, aapko kuch zariye azmarein honge:\n\n1. **ABHI App ke Andar:** Agar aap ke paas ABHI app install hai, to wahan aksar help ya support section hota hai jahan se aap contact details dhoond sakte hain.\n\n2. **Official Website:** ABHI Finance ki official website par jaakar 'Contact Us' section dekhein. Wahan par unka customer service number diya gaya ho sakta hai.\n\n3. **Email ya Social Media:** Aap unke customer support ko email ke zariye ya social media pages jese ke Facebook ya Twitter par message kar ke bhi unka phone number puch sakte hain.\n\nAgar aap ABHI Finance ke partner company ke employee hain to aap HR department se bhi unke support number ke baare mein pooch sakte hain.\n\nYaad rahe ke jab aap sensitive financial information ke exchange karne jaa rhe ho to hamesha verified sources se hi contact information hasal karen. Scammers se bachne ke liye unofficial channels se bach kar chalen."
+        },
+        {
+            "role": "user",
+            "content": "Mujhe advance kio nai mil raha?"
+        },
+        {
+            "role": "assistant",
+            "content": "Agar aap ABHI Finance App ke zariye advance le nahi paa rahe hain to iski kai wajohat ho sakti hain. Main kuch mumkinah wajohat aur unke hal suggest karne ki koshish kar raha hoon:\n\n1. **Eligibility:** Ho sakta hai ke aap eligible nahi hain. Aam tor par, ABHI App use karne ke liye aapka employer ABHI ke sath partnership mein hona zaroori hai.\n\n2. **Earned Salary:** Advance tabhi mil sakta hai jab aapne kuch salary earn ki ho. Agar aapne recently join kiya hai ya salary cycle ke start mein hain, to ho sakta hai ke sufficient amount earned na ho.\n\n3. **Previous Advances:** Agar aapne pehle hi koi advance liya hua hai aur uska settlement nahi hua hai to aapko further advance nahi milega.\n\n4. **Account Verification:** Aapka account ya employment details fully verified na hon.\n\n5. **Technical Issues:** Koi technical glitch ya server issue ho sakta hai jis ki wajah se transaction process nahi ho pa raha ho.\n\n6. **Limits Reached:** Kuch cases mein, advance lene ke limits hoti hain. Agar aapne limits ko cross kar diya hai to aapko advance nahi mil sakta.\n\nHal ke liye, aap ye steps le sakte hain:\n\n- **App ki Help Section:** ABHI app ki help ya support section check karen ke shayad wahaan koi guidance mil jaye.\n  \n- **Customer Support:** Agar phir bhi samajh na aaye to ABHI Finance ki customer support se contact karne ki zaroorat hai. Support se raabta kar ke aap situation clear kar sakte hain.\n\n- **HR Department:** Agar aapka employer ABHI ke saath partnered hai, to aap HR department se bhi pooch sakte hain ki advance related koi issue to nahi hai.\n\nYaad rahe ke har user ka experience alag hota hai aur specific issue ka hal bhi tabhi mil sakta hai jab situation ko detail mein samjha jaye. Is liye direct customer support se baat karna zyada behtar hoga."
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u06cc\u06a9\u0645give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0648\u0639\u0644\u064a\u0643\u0645 \u0627\u0644\u0633\u0644\u0627\u0645! \n\n\u0627\u06af\u0631 ABHI \u06a9\u06cc \u0627\u06cc\u067e \u0633\u06d2 \u0622\u067e \u06a9\u0648 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0646\u06c1\u06cc\u06ba \u0645\u0644 \u0631\u06c1\u0627 \u062a\u0648 \u0627\u067e\u0646\u0627 \u0627\u06c1\u0644\u06cc\u062a \u0686\u06cc\u06a9 \u06a9\u0631\u06cc\u06ba\u060c \u0627\u0648\u0631 \u06a9\u0645\u067e\u0646\u06cc \u06a9\u06d2 HR \u06cc\u0627 ABHI \u06a9\u0633\u0679\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u0633\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u0627\u0624\u067e\u0646\u06cc \u06a9\u06cc \u06cc\u0627 \u06a9\u0633 \u0637\u0631\u062d \u0633\u06af\u0648\u0679 \u0633\u06d2 \u0631\u0627\u062a\u06c1 \u06a9\u0631\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "ABHI \u06a9\u06d2 \u06a9\u0633\u0679\u0645\u0631 \u0633\u067e\u0648\u0631\u0679 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0627\u06cc\u067e \u06a9\u06d2 \u0627\u0646\u062f\u0631 \u062f\u06cc \u06af\u0626\u06cc \u0631\u0627\u0628\u0637\u06c1 \u06a9\u06cc \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u06cc\u0627 \u06a9\u0645\u067e\u0646\u06cc \u06a9\u06cc \u0648\u06cc\u0628\u0633\u0627\u0626\u0679 \u0633\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06a9\u06cc\u0627 \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u0627\u06cc\u06a9 \u0627\u06cc\u067e \u06a9\u06cc \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u06a9\u0627 \u06cc\u0648 \u0622\u0631 \u0627\u06cc\u0644 \u0628\u062a\u0627 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a \u062e\u0648\u0627\u06c1 \u06c1\u0648\u06ba\u060c \u0645\u06cc\u0631\u06d2 \u067e\u0627\u0633 \u0645\u0648\u062c\u0648\u062f\u06c1 \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 URL \u062a\u06a9 \u0631\u0633\u0627\u0626\u06cc \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4 ABHI Finance \u06a9\u06cc \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u062a\u0644\u0627\u0634 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u0626\u06d2 \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 \u0627\u0646\u0679\u0631\u0646\u06cc\u0679 \u067e\u0631 \u0633\u0631\u0686 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "user",
+            "content": "Hu"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today with ABHI Finance or any other queries you might have?"
+        },
+        {
+            "role": "user",
+            "content": "What is abhi"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi is a fintech company based in Pakistan that provides a service known as Earned Wage Access (EWA) to employees. It allows workers to access their earned but unpaid salary before their regular payday through an app or SMS, providing financial flexibility and helping to alleviate financial stress caused by unexpected expenses or emergencies. This service can increase employee satisfaction and productivity, as they have immediate access to their wages when needed."
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? If you have any questions or need information on ABHI Finance or any other topic, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        }
+    ]
+}
+    ]
+}

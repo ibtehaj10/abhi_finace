@@ -1,0 +1,173 @@
+{
+    "user_id": "1932840962",
+    "chat": [
+        {
+            "role": "user",
+            "content": "HI"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "so who are you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a digital assistant designed to answer questions and provide information across a wide range of topics. How can I help you today?"
+        },
+        {
+            "role": "user",
+            "content": "Hey"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello again! Is there anything specific you'd like to know or discuss? I'm here to help with any questions you might have.\n"
+        },
+        {
+            "role": "user",
+            "content": "\u06cc\u06c1 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06cc\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \u0627\u0633 \u06a9\u0627 \u06a9\u06cc\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "user",
+            "content": "\u06cc\u06c1 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06cc\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \u0627\u0633\u06d2 \u06a9\u06cc\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0641\u0646\u0627\u0646\u0633 \u0627\u06cc\u067e \u0627\u06cc\u06a9 \u0688\u06cc\u062c\u06cc\u0679\u0644 \u0645\u0627\u0644\u06cc \u062e\u062f\u0645\u0627\u062a \u06a9\u06cc \u067e\u0644\u06cc\u0679 \u0641\u0627\u0631\u0645 \u06c1\u06d2 \u062c\u0648 \u0635\u0627\u0631\u0641\u06cc\u0646 \u06a9\u0648 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0633\u06cc\u0644\u0631\u06cc\u060c \u0642\u0631\u0636 \u0627\u0648\u0631 \u062f\u06cc\u06af\u0631 \u0645\u0627\u0644\u06cc\u0627\u062a\u06cc \u062e\u062f\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0641\u0646\u0627\u0646\u0633 \u0627\u06cc\u067e \u0627\u06cc\u06a9 \u0645\u0648\u0628\u0627\u0626\u0644 \u0627\u06cc\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u06c1\u06d2 \u062c\u0633 \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631 \u06a9\u06d2 \u0635\u0627\u0631\u0641\u06cc\u0646 \u0642\u0631\u0636\u06d2\u060c \u0627\u0646\u0648\u06cc\u0633\u0679\u0645\u0646\u0679\u060c \u06cc\u0627 \u0645\u0627\u0644\u06cc \u0645\u0639\u0627\u0645\u0644\u0627\u062a \u06a9\u06cc \u062f\u06cc\u06af\u0631 \u0633\u0631\u0648\u0633\u0632 \u062a\u06a9 \u0631\u0633\u0627\u0626\u06cc \u062d\u0627\u0635\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "what is ABHI?"
+        },
+        {
+            "role": "assistant",
+            "content": "ABHI is a financial technology company that operates an app offering services such as salary advances and loans. It allows users to access a portion of their earned wages before their regular payday. The platform aims to provide financial flexibility and help individuals manage unexpected expenses without having to wait for their salary to be disbursed."
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u0648 \u0633\u0627\u0626\u0646 \u0627\u067e \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u06a9\u06cc\u0627 \u0637\u0631\u06cc\u0642\u06c1 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u067e\u0631 \u0633\u0627\u0626\u0646 \u0627\u067e \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0627\u06cc\u067e \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631\u06cc\u06ba\u060c \u0627\u067e\u0646\u06cc \u0628\u0646\u06cc\u0627\u062f\u06cc \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062f\u0627\u062e\u0644 \u06a9\u0631\u06cc\u06ba\u060c \u062f\u0633\u062a\u0627\u0648\u06cc\u0632\u0627\u062a \u0627\u067e\u0644\u0648\u0688 \u06a9\u0631\u06cc\u06ba\u060c \u0627\u0648\u0631 \u0648\u06cc\u0631\u06cc\u0641\u06cc\u06a9\u06cc\u0634\u0646 \u06a9\u06d2 \u0639\u0645\u0644 \u06a9\u0648 \u0645\u06a9\u0645\u0644 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u06cc\u06c1 \u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06cc\u0627 \u06c1\u06d2 \u0627\u0648\u0631 \u0627\u0633 \u06a9\u0627 \u067e\u062a\u06c1 \u06a9\u06c1\u0627 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u0627\u06cc\u06a9 \u0645\u0627\u0644\u06cc\u0627\u062a\u06cc \u0633\u06c1\u0648\u0644\u062a \u06c1\u06d2 \u062c\u0648 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0627\u064f\u0646 \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u062a\u06a9 \u062c\u0644\u062f \u0631\u0633\u0627\u0626\u06cc \u062f\u06cc\u062a\u06cc \u06c1\u06d2\u06d4 \u0627\u064f\u0646 \u06a9\u0627 \u062f\u0641\u062a\u0631 Office 505 A, 5th Floor, Fortune Towers, Shahrah-e-Faisal, Karachi \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u06cc\u06ba \u0627\u0628\u06be\u06cc \u0633\u06d2 \u06a9\u06cc\u0633\u06d2  \u06a9\u0627\u0646\u0679\u06cc\u06a9 \u06a9\u0631 \u0633\u06a9\u062a\u0627 \u06c1\u0648\u06bagive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0633\u06d2 \u0631\u0627\u0628\u0637\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u067e \u0627\u06cc\u0645\u06cc\u0644 connect@abhi.com.pk \u067e\u0631 \u0627\u06cc\u0645\u06cc\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u06cc\u0627 0304 1115276 \u067e\u0631 \u06a9\u0627\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u06cc\u0648\u0632 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u06a9\u06cc\u0627 \u0641\u0627\u0626\u062f\u06c1 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u0627 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u0633\u06d2 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0645\u0627\u0644\u06cc \u0633\u06a9\u0648\u0646 \u0645\u0644\u062a\u0627 \u06c1\u06d2 \u06a9\u06cc\u0648\u06ba\u06a9\u06c1 \u0648\u06c1 \u0627\u067e\u0646\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u06a9\u0686\u06be \u062d\u0635\u06c1 \u067e\u06d2 \u0688\u06d2 \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u062d\u0627\u0635\u0644 \u06a9\u0631 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u062c\u0633 \u0633\u06d2 \u0627\u0686\u0627\u0646\u06a9 \u0622\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u062e\u0631\u0686\u0648\u06ba \u06a9\u0648 \u067e\u0648\u0631\u0627 \u06a9\u0631\u0646\u0627 \u0645\u0645\u06a9\u0646 \u06c1\u0648 \u062c\u0627\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "tell me about your service"
+        },
+        {
+            "role": "assistant",
+            "content": "As a digital Assistant, I'm here to provide information and answer questions you may have across various topics. My service includes:\n\n1. Answering general knowledge questions.\n2. Providing explanations on a wide range of subjects including technology, science, history, culture, and more.\n3. Offering assistance with understanding concepts, processes, and procedures.\n4. Giving instructions for basic troubleshooting and tech support for common issues.\n5. Sharing information about products, services, and companies upon request.\n\nPlease note that my responses are generated based on the information available up to my knowledge cutoff date, and I can only provide information within the guidelines set for this platform. How can I help you further today?"
+        },
+        {
+            "role": "user",
+            "content": "again please"
+        },
+        {
+            "role": "user",
+            "content": "sign up process of the app"
+        },
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "The sign-up process for the ABHI app is as follows:\n\n1. Download the App from your device's respective app store.\n2. Open the App and enter your CNIC number to log in.\n3. Provide any necessary personal information and verify your details.\n4. If required, upload supporting documents for the verification process.\n5. Once verified, you can start using the app's services.\n\nKeep in mind that you must be employed by a company that is partnered with ABHI to use the app. If your company is not onboarded with ABHI, you may need to speak to your HR department to get added to the system."
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! If you're asking about the sign-up process for the ABHI app, here's a concise guide:\n\n1. Download the ABHI app from your device's respective app store.\n2. Open the app and enter necessary details such as your CNIC number.\n3. Complete the verification process as required.\n4. Once verified, you can access the services provided by ABHI, such as Earned Wage Access and other financial solutions.\n\nIf you need more detailed assistance or specific instructions, please feel free to ask!"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628 \u06cc\u06c1 \u0627\u06cc\u067e \u067e\u0631 \u0633\u0627\u0626\u0646 \u0627\u0646 \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u06a9\u06cc\u0627 \u0637\u0631\u06cc\u0642\u06c1give very short answser"
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628 \u06cc\u06c1 \u0627\u06cc\u067e \u067e\u0631 \u0633\u0627\u0626\u0646 \u0627\u0646 \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u06a9\u06cc\u0627 \u0637\u0631\u06cc\u0642\u06c1 \u06c1\u06d2give very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u067e\u0631 \u0633\u0627\u0626\u0646 \u0627\u0646 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0627\u06cc\u067e \u0688\u0627\u0624\u0646\u0644\u0648\u0688 \u06a9\u0631\u06cc\u06ba\u060c \u0627\u067e\u0646\u06d2 CNIC \u0646\u0645\u0628\u0631 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0644\u0627\u06af \u0627\u0646 \u06a9\u0631\u06cc\u06ba\u060c \u0627\u0648\u0631 \u0636\u0631\u0648\u0631\u06cc \u062a\u0641\u0635\u06cc\u0644\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u06a9\u06d2 \u0648\u06cc\u0631\u06cc\u0641\u06cc\u06a9\u06cc\u0634\u0646 \u06a9\u0631\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "what is abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Employees are able to access their earned but unpaid salary anytime, anywhere via the app or SMS. They can withdraw their salary, pay their bills and send money to family or friends whenever they want. With ABHI, employees can work without financial stress and employers can enjoy higher productivity."
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "Hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello again! How may I help you? If you have any questions or need assistance, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "\u0627\u0628\u06be\u06cc \u0641\u0627\u0626\u0631\u0646\u0633 \u0633\u06d2 \u067e\u06cc\u0633\u06d2 \u06a9\u06cc\u0633\u06d2 \u0646\u06a9\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u061fgive very short answser"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u06cc\u067e \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 (\u0646\u06a9\u0627\u0644\u0648 \u0627\u0628\u06be\u06cc) \u06a9\u06d2 \u0622\u067e\u0634\u0646 \u06a9\u0648 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631 \u06a9\u06d2 \u0622\u067e \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u06a9\u0686\u06be \u062d\u0635\u06c1 \u0646\u06a9\u0627\u0644 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+        }
+    ]
+}

@@ -6,7 +6,7 @@ import tempfile
 import os
 import time
 from flask import Flask, send_file, after_this_request
-import openai
+from openai import OpenAI
 import json
 import jsonpickle
 from langchain.document_loaders import PyPDFLoader
@@ -15,14 +15,15 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.chat_models import ChatOpenAI
-from transformers import VitsModel, AutoTokenizer, pipeline
+from transformers import VitsModel, AutoTokenizer, pipeline, VitsTokenizer
 import torch
 import soundfile as sf
 from qna import text 
 apikeys = apikey
 
 app = Flask(__name__)
-
+global client
+client = OpenAI(api_key=apikeys)
 
 embeddings = OpenAIEmbeddings(openai_api_key=apikeys)
 db = Chroma(persist_directory="mydb", embedding_function=embeddings)
@@ -37,8 +38,8 @@ print('Loading Whisper...')
 model_size = "large-v3"
 model = WhisperModel(model_size, device="cuda", compute_type="int8")
 print('Loading TTS...')
-tts_model = VitsModel.from_pretrained("facebook/mms-tts-urd-script_arabic")
-tts_tokenizer = AutoTokenizer.from_pretrained("facebook/mms-tts-urd-script_arabic")
+tts_tokenizer = VitsTokenizer.from_pretrained("syedmuhammad/mms-tts-urdu-vits_finetuned-female")
+tts_model = VitsModel.from_pretrained("syedmuhammad/mms-tts-urdu-vits_finetuned-female")
 
 print('Models Loaded Successfully...')
 
@@ -53,16 +54,21 @@ def transcribe(audio_file_path, beam_size=5):
 
     return transcribed_text.strip()
 
-def tts(text,filename):
 
-    inputs = tts_tokenizer(text, return_tensors="pt")
 
-    with torch.no_grad():
-        tts_output = tts_model(**inputs).waveform
-    audio_data = tts_output.squeeze().cpu().numpy()
-    sf.write(filename, audio_data, 16000)
 
-    return  filename
+def tts(text_input):
+    speech_file_path = "speech.mp3"
+        # Use OpenAI's API to convert text to speech and stream to file
+    response = client.audio.speech.create(
+        model="tts-1",
+        voice="onyx",
+        input=text_input
+    )
+    response
+    
+    response.stream_to_file(str(speech_file_path))
+    return str(speech_file_path)
 
 
 
@@ -82,17 +88,31 @@ def retrieve_combined_documents(query, max_combined_docs=4):
 
 
 ############## GPT PROMPT ####################
-def gpt(inp, prompt):
-    systems = {"role":"system","content":"""YYou are an Assistant. Answer in detail in the language the question was asked such as if user ask question in urdu give him answer in urdu and if the Question is in Enlgish then answer him English and if in Roman Urdu then asnwer in him Roman Urdu, and so on dont try yo make up the amswer be concise as possibile."""}
+def gpt(inp,prompt):
+    systems = {"role":"system","content":"""
+               
+               
+You are an Assistant. 
+               Answer in detail in the language the question was asked 
+               such as if user ask question in urdu give him answer in urdu 
+               and if the Question is in Enlgish then answer him English and 
+               if in Roman Urdu then asnwer in him Roman Urdu, and so on,
+                dont try to make up the amswer be concise as possibile. Use the given data to generate answer. 
+               If you can't find any relevent information tell the user to contact us through mail connect@abhi.com.pk, phone +923041115276,
+               if user ask about balance or taking loans type of question then ask for mail, name and phone number and then say we will contact you in next 24 hours.
+               REMEMBER DONT GO OUT OF CONTEXT, FOCUS ON CONTEXT INFO!!!!!!
+
+               
+               """}
     rcd = retrieve_combined_documents(prompt)
-    print("rcd  hai ye &&&&&&& : ",rcd)
-    systems1 = {"role":"system","content":str(rcd)}
+    print("text  hai ye &&&&&&& : ",rcd)
+    systems1 = {"role":"system","content":str(text)}
     new_inp = inp
     new_inp.insert(0,systems)
     new_inp.insert(1,systems1)
     print("inp : \n ",new_inp)
-    openai.api_key = apikeys
-    completion = openai.ChatCompletion.create(
+    # openai.api_key = apikeys
+    completion = client.chat.completions.create(
     model="gpt-4-1106-preview", 
     messages=new_inp
     )
@@ -147,7 +167,7 @@ def check_user(ids,prompt):
         reply = send.choices[0].message
         print("reply    ",reply.content)
         write_chat({"role":"assistant","content":reply.content},path)
-        return {"message":reply,"status":"OK"}
+        return {"message":reply.content,"status":"OK"}
         # except:
         #     return {"message":"something went wrong!","status":"404"}
 
@@ -189,13 +209,17 @@ if not os.path.exists(UPLOAD_FOLDER):
 
 
 
+@app.route('/chat', methods=['POST'])
+def chat():
+    ids = request.json['user_id']
+    prompt = request.json['prompt']
+    gpt_reply = check_user(str(ids),prompt)
+    return gpt_reply['message']['content']
 
-def tensor_to_wav(tensor, sample_rate, output_path):
-    audio_data = tensor.numpy()  # Convert to numpy array
-    sf.write(output_path, audio_data, sample_rate)
 
 @app.route('/audio', methods=['POST'])
 def upload_file():
+    user_id = request.form.get('user_id')
     if request.method == 'POST':
         # Check if the post request has the file part
         if 'audio_file' not in request.files:
@@ -212,9 +236,9 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], name))
             text = transcribe('uploads/'+name,beam_size=5)
             print(text)
-            gpt_reply = check_user('test',text+"give very short answser")
-            print('gpt_reply : ',gpt_reply)
-            waveform = tts(gpt_reply['message']['content'],'audios/output.wav')  # Your tts function is called here with the input text
+            gpt_reply = check_user(str(user_id), str(text)+"give very short answser" )
+            print('gpt_reply : ',str(gpt_reply['message']))
+            waveform = tts(str(gpt_reply['message']))  # Your tts function is called here with the input text
             # audio = open(waveform, 'rb')
             return send_file(waveform, as_attachment=True, download_name='downloaded_audio.wav')
 
